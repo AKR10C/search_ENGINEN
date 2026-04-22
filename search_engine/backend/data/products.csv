@@ -1,0 +1,1001 @@
+id,name,description,brand,price,rating,category
+0,Nike Shoes 0,Nike sports shoes for high performance,Nike,1192,1.6,shoes
+1,Adidas Shoes 1,Adidas comfortable street shoes,Adidas,4490,2.3,shoes
+2,Reebok Shoes 2,Reebok gym training sneakers,Reebok,4880,3.1,shoes
+3,Nike Shoes 3,Nike lightweight training shoes,Nike,4622,1.3,shoes
+4,Reebok Shoes 4,Reebok durable running shoes,Reebok,1609,2.2,shoes
+5,Reebok Shoes 5,Reebok gym training sneakers,Reebok,3025,3.6,shoes
+6,Reebok Shoes 6,Reebok durable running shoes,Reebok,1090,3.8,shoes
+7,Nike Shoes 7,Nike running shoes for athletes,Nike,4193,2.0,shoes
+8,Puma Shoes 8,Puma lightweight running shoes,Puma,2211,3.0,shoes
+9,Nike Shoes 9,Nike lightweight training shoes,Nike,3677,4.5,shoes
+10,Puma Shoes 10,Puma lightweight running shoes,Puma,2416,4.0,shoes
+11,Reebok Shoes 11,Reebok fitness shoes for workouts,Reebok,2133,3.2,shoes
+12,Adidas Shoes 12,Adidas ultraboost running shoes,Adidas,1372,4.3,shoes
+13,Nike Shoes 13,Nike running shoes for athletes,Nike,4124,3.6,shoes
+14,Reebok Shoes 14,Reebok gym training sneakers,Reebok,1352,4.7,shoes
+15,Nike Shoes 15,Nike running shoes for athletes,Nike,3420,2.2,shoes
+16,Adidas Shoes 16,Adidas ultraboost running shoes,Adidas,2021,2.2,shoes
+17,Reebok Shoes 17,Reebok gym training sneakers,Reebok,1259,3.2,shoes
+18,Adidas Shoes 18,Adidas stylish sneakers for casual wear,Adidas,4556,4.3,shoes
+19,Adidas Shoes 19,Adidas comfortable street shoes,Adidas,1804,2.7,shoes
+20,Nike Shoes 20,Nike sports shoes for high performance,Nike,1060,1.4,shoes
+21,Reebok Shoes 21,Reebok durable running shoes,Reebok,1288,1.1,shoes
+22,Adidas Shoes 22,Adidas comfortable street shoes,Adidas,3946,4.0,shoes
+23,Puma Shoes 23,Puma training shoes for gym,Puma,1477,2.4,shoes
+24,Reebok Shoes 24,Reebok gym training sneakers,Reebok,2858,2.9,shoes
+25,Adidas Shoes 25,Adidas stylish sneakers for casual wear,Adidas,2200,4.5,shoes
+26,Reebok Shoes 26,Reebok fitness shoes for workouts,Reebok,2768,4.2,shoes
+27,Nike Shoes 27,Nike running shoes for athletes,Nike,2975,2.2,shoes
+28,Adidas Shoes 28,Adidas ultraboost running shoes,Adidas,868,1.9,shoes
+29,Puma Shoes 29,Puma lightweight running shoes,Puma,4487,2.8,shoes
+30,Puma Shoes 30,Puma sports shoes for daily use,Puma,2390,1.2,shoes
+31,Reebok Shoes 31,Reebok fitness shoes for workouts,Reebok,2550,4.5,shoes
+32,Reebok Shoes 32,Reebok gym training sneakers,Reebok,3219,2.0,shoes
+33,Reebok Shoes 33,Reebok fitness shoes for workouts,Reebok,4773,2.5,shoes
+34,Nike Shoes 34,Nike sports shoes for high performance,Nike,3641,1.5,shoes
+35,Reebok Shoes 35,Reebok gym training sneakers,Reebok,1470,1.4,shoes
+36,Adidas Shoes 36,Adidas stylish sneakers for casual wear,Adidas,2551,2.4,shoes
+37,Puma Shoes 37,Puma sports shoes for daily use,Puma,1480,1.6,shoes
+38,Nike Shoes 38,Nike sports shoes for high performance,Nike,1228,4.1,shoes
+39,Reebok Shoes 39,Reebok gym training sneakers,Reebok,3758,2.9,shoes
+40,Puma Shoes 40,Puma sports shoes for daily use,Puma,2052,4.3,shoes
+41,Adidas Shoes 41,Adidas comfortable street shoes,Adidas,2423,4.3,shoes
+42,Reebok Shoes 42,Reebok fitness shoes for workouts,Reebok,3413,2.7,shoes
+43,Puma Shoes 43,Puma sports shoes for daily use,Puma,2887,1.2,shoes
+44,Nike Shoes 44,Nike lightweight training shoes,Nike,3847,4.8,shoes
+45,Reebok Shoes 45,Reebok fitness shoes for workouts,Reebok,4268,4.3,shoes
+46,Puma Shoes 46,Puma sports shoes for daily use,Puma,3055,3.9,shoes
+47,Reebok Shoes 47,Reebok durable running shoes,Reebok,702,3.1,shoes
+48,Reebok Shoes 48,Reebok gym training sneakers,Reebok,4401,4.6,shoes
+49,Adidas Shoes 49,Adidas ultraboost running shoes,Adidas,1297,1.2,shoes
+50,Nike Shoes 50,Nike lightweight training shoes,Nike,2756,1.3,shoes
+51,Reebok Shoes 51,Reebok durable running shoes,Reebok,2967,1.2,shoes
+52,Puma Shoes 52,Puma training shoes for gym,Puma,3575,1.0,shoes
+53,Nike Shoes 53,Nike lightweight training shoes,Nike,4127,4.9,shoes
+54,Puma Shoes 54,Puma training shoes for gym,Puma,1759,3.3,shoes
+55,Puma Shoes 55,Puma sports shoes for daily use,Puma,555,2.9,shoes
+56,Adidas Shoes 56,Adidas stylish sneakers for casual wear,Adidas,3881,2.9,shoes
+57,Reebok Shoes 57,Reebok fitness shoes for workouts,Reebok,3169,3.0,shoes
+58,Reebok Shoes 58,Reebok fitness shoes for workouts,Reebok,4389,4.1,shoes
+59,Puma Shoes 59,Puma sports shoes for daily use,Puma,4491,2.9,shoes
+60,Puma Shoes 60,Puma sports shoes for daily use,Puma,4309,3.7,shoes
+61,Puma Shoes 61,Puma sports shoes for daily use,Puma,4127,2.9,shoes
+62,Nike Shoes 62,Nike running shoes for athletes,Nike,2746,3.4,shoes
+63,Nike Shoes 63,Nike running shoes for athletes,Nike,4707,4.5,shoes
+64,Adidas Shoes 64,Adidas stylish sneakers for casual wear,Adidas,3161,4.0,shoes
+65,Nike Shoes 65,Nike lightweight training shoes,Nike,1608,3.3,shoes
+66,Reebok Shoes 66,Reebok fitness shoes for workouts,Reebok,1791,4.7,shoes
+67,Reebok Shoes 67,Reebok durable running shoes,Reebok,848,2.0,shoes
+68,Puma Shoes 68,Puma sports shoes for daily use,Puma,4792,3.2,shoes
+69,Adidas Shoes 69,Adidas stylish sneakers for casual wear,Adidas,3289,3.9,shoes
+70,Puma Shoes 70,Puma sports shoes for daily use,Puma,3324,3.2,shoes
+71,Nike Shoes 71,Nike running shoes for athletes,Nike,1851,1.5,shoes
+72,Reebok Shoes 72,Reebok durable running shoes,Reebok,3617,1.2,shoes
+73,Reebok Shoes 73,Reebok fitness shoes for workouts,Reebok,3659,3.0,shoes
+74,Reebok Shoes 74,Reebok gym training sneakers,Reebok,3442,1.1,shoes
+75,Nike Shoes 75,Nike running shoes for athletes,Nike,1061,1.6,shoes
+76,Reebok Shoes 76,Reebok durable running shoes,Reebok,3104,1.7,shoes
+77,Nike Shoes 77,Nike lightweight training shoes,Nike,1090,3.9,shoes
+78,Adidas Shoes 78,Adidas comfortable street shoes,Adidas,3487,1.8,shoes
+79,Reebok Shoes 79,Reebok fitness shoes for workouts,Reebok,1154,2.4,shoes
+80,Puma Shoes 80,Puma sports shoes for daily use,Puma,2481,1.8,shoes
+81,Adidas Shoes 81,Adidas comfortable street shoes,Adidas,4281,2.6,shoes
+82,Adidas Shoes 82,Adidas stylish sneakers for casual wear,Adidas,1239,1.2,shoes
+83,Adidas Shoes 83,Adidas stylish sneakers for casual wear,Adidas,3978,1.5,shoes
+84,Nike Shoes 84,Nike lightweight training shoes,Nike,2654,4.7,shoes
+85,Puma Shoes 85,Puma sports shoes for daily use,Puma,2059,2.1,shoes
+86,Adidas Shoes 86,Adidas ultraboost running shoes,Adidas,1535,2.5,shoes
+87,Adidas Shoes 87,Adidas comfortable street shoes,Adidas,811,4.1,shoes
+88,Adidas Shoes 88,Adidas comfortable street shoes,Adidas,4747,3.9,shoes
+89,Reebok Shoes 89,Reebok fitness shoes for workouts,Reebok,650,1.9,shoes
+90,Adidas Shoes 90,Adidas comfortable street shoes,Adidas,1784,1.1,shoes
+91,Reebok Shoes 91,Reebok gym training sneakers,Reebok,4506,4.2,shoes
+92,Adidas Shoes 92,Adidas comfortable street shoes,Adidas,890,2.8,shoes
+93,Reebok Shoes 93,Reebok fitness shoes for workouts,Reebok,4067,2.7,shoes
+94,Adidas Shoes 94,Adidas stylish sneakers for casual wear,Adidas,3377,1.1,shoes
+95,Puma Shoes 95,Puma training shoes for gym,Puma,1101,4.3,shoes
+96,Nike Shoes 96,Nike sports shoes for high performance,Nike,4250,4.5,shoes
+97,Nike Shoes 97,Nike sports shoes for high performance,Nike,3773,2.3,shoes
+98,Reebok Shoes 98,Reebok gym training sneakers,Reebok,4127,1.7,shoes
+99,Puma Shoes 99,Puma training shoes for gym,Puma,1369,2.9,shoes
+100,Adidas Shoes 100,Adidas ultraboost running shoes,Adidas,1733,1.1,shoes
+101,Puma Shoes 101,Puma training shoes for gym,Puma,4587,1.4,shoes
+102,Adidas Shoes 102,Adidas stylish sneakers for casual wear,Adidas,2275,4.4,shoes
+103,Reebok Shoes 103,Reebok gym training sneakers,Reebok,1288,4.8,shoes
+104,Adidas Shoes 104,Adidas stylish sneakers for casual wear,Adidas,2369,2.9,shoes
+105,Adidas Shoes 105,Adidas ultraboost running shoes,Adidas,2231,2.1,shoes
+106,Nike Shoes 106,Nike lightweight training shoes,Nike,3604,3.0,shoes
+107,Adidas Shoes 107,Adidas ultraboost running shoes,Adidas,4206,3.8,shoes
+108,Puma Shoes 108,Puma training shoes for gym,Puma,904,1.3,shoes
+109,Reebok Shoes 109,Reebok fitness shoes for workouts,Reebok,686,1.3,shoes
+110,Reebok Shoes 110,Reebok fitness shoes for workouts,Reebok,636,3.8,shoes
+111,Puma Shoes 111,Puma lightweight running shoes,Puma,1770,3.6,shoes
+112,Nike Shoes 112,Nike lightweight training shoes,Nike,3355,3.9,shoes
+113,Reebok Shoes 113,Reebok gym training sneakers,Reebok,4878,4.5,shoes
+114,Puma Shoes 114,Puma sports shoes for daily use,Puma,1599,1.1,shoes
+115,Adidas Shoes 115,Adidas ultraboost running shoes,Adidas,3852,4.8,shoes
+116,Puma Shoes 116,Puma sports shoes for daily use,Puma,4115,4.7,shoes
+117,Puma Shoes 117,Puma sports shoes for daily use,Puma,3818,3.1,shoes
+118,Reebok Shoes 118,Reebok durable running shoes,Reebok,3628,4.4,shoes
+119,Nike Shoes 119,Nike running shoes for athletes,Nike,4948,4.1,shoes
+120,Puma Shoes 120,Puma lightweight running shoes,Puma,3389,3.7,shoes
+121,Adidas Shoes 121,Adidas stylish sneakers for casual wear,Adidas,4110,2.2,shoes
+122,Adidas Shoes 122,Adidas ultraboost running shoes,Adidas,1279,3.6,shoes
+123,Adidas Shoes 123,Adidas stylish sneakers for casual wear,Adidas,2718,4.3,shoes
+124,Puma Shoes 124,Puma lightweight running shoes,Puma,4570,2.3,shoes
+125,Reebok Shoes 125,Reebok durable running shoes,Reebok,3850,2.4,shoes
+126,Adidas Shoes 126,Adidas stylish sneakers for casual wear,Adidas,3497,2.2,shoes
+127,Adidas Shoes 127,Adidas comfortable street shoes,Adidas,1597,3.5,shoes
+128,Adidas Shoes 128,Adidas ultraboost running shoes,Adidas,2635,4.8,shoes
+129,Puma Shoes 129,Puma training shoes for gym,Puma,2068,2.9,shoes
+130,Adidas Shoes 130,Adidas stylish sneakers for casual wear,Adidas,4852,2.6,shoes
+131,Nike Shoes 131,Nike sports shoes for high performance,Nike,2841,3.4,shoes
+132,Nike Shoes 132,Nike sports shoes for high performance,Nike,4659,3.3,shoes
+133,Puma Shoes 133,Puma sports shoes for daily use,Puma,1242,3.7,shoes
+134,Adidas Shoes 134,Adidas ultraboost running shoes,Adidas,989,2.6,shoes
+135,Nike Shoes 135,Nike running shoes for athletes,Nike,2254,3.1,shoes
+136,Puma Shoes 136,Puma training shoes for gym,Puma,3673,1.8,shoes
+137,Nike Shoes 137,Nike running shoes for athletes,Nike,4868,2.9,shoes
+138,Puma Shoes 138,Puma training shoes for gym,Puma,4622,4.6,shoes
+139,Puma Shoes 139,Puma lightweight running shoes,Puma,1207,1.1,shoes
+140,Puma Shoes 140,Puma sports shoes for daily use,Puma,712,3.8,shoes
+141,Puma Shoes 141,Puma training shoes for gym,Puma,3412,3.4,shoes
+142,Adidas Shoes 142,Adidas comfortable street shoes,Adidas,2512,1.3,shoes
+143,Reebok Shoes 143,Reebok fitness shoes for workouts,Reebok,1129,3.5,shoes
+144,Nike Shoes 144,Nike sports shoes for high performance,Nike,4314,1.1,shoes
+145,Puma Shoes 145,Puma sports shoes for daily use,Puma,1607,3.0,shoes
+146,Adidas Shoes 146,Adidas ultraboost running shoes,Adidas,3402,2.7,shoes
+147,Adidas Shoes 147,Adidas comfortable street shoes,Adidas,1495,3.8,shoes
+148,Nike Shoes 148,Nike running shoes for athletes,Nike,1639,2.7,shoes
+149,Nike Shoes 149,Nike running shoes for athletes,Nike,2815,4.6,shoes
+150,Reebok Shoes 150,Reebok gym training sneakers,Reebok,3486,3.8,shoes
+151,Reebok Shoes 151,Reebok durable running shoes,Reebok,3880,1.5,shoes
+152,Reebok Shoes 152,Reebok gym training sneakers,Reebok,2588,4.3,shoes
+153,Puma Shoes 153,Puma training shoes for gym,Puma,893,1.8,shoes
+154,Puma Shoes 154,Puma sports shoes for daily use,Puma,3110,3.0,shoes
+155,Adidas Shoes 155,Adidas comfortable street shoes,Adidas,2671,1.3,shoes
+156,Adidas Shoes 156,Adidas stylish sneakers for casual wear,Adidas,3014,1.4,shoes
+157,Puma Shoes 157,Puma sports shoes for daily use,Puma,1974,4.9,shoes
+158,Puma Shoes 158,Puma lightweight running shoes,Puma,4957,3.3,shoes
+159,Reebok Shoes 159,Reebok fitness shoes for workouts,Reebok,2865,3.9,shoes
+160,Puma Shoes 160,Puma sports shoes for daily use,Puma,3283,3.1,shoes
+161,Nike Shoes 161,Nike lightweight training shoes,Nike,2310,1.7,shoes
+162,Puma Shoes 162,Puma training shoes for gym,Puma,4929,1.1,shoes
+163,Nike Shoes 163,Nike sports shoes for high performance,Nike,730,1.5,shoes
+164,Nike Shoes 164,Nike sports shoes for high performance,Nike,1325,2.2,shoes
+165,Nike Shoes 165,Nike sports shoes for high performance,Nike,2478,4.8,shoes
+166,Puma Shoes 166,Puma sports shoes for daily use,Puma,1043,3.1,shoes
+167,Adidas Shoes 167,Adidas stylish sneakers for casual wear,Adidas,4952,4.7,shoes
+168,Reebok Shoes 168,Reebok gym training sneakers,Reebok,3894,3.2,shoes
+169,Adidas Shoes 169,Adidas ultraboost running shoes,Adidas,3525,1.7,shoes
+170,Adidas Shoes 170,Adidas stylish sneakers for casual wear,Adidas,568,1.1,shoes
+171,Reebok Shoes 171,Reebok fitness shoes for workouts,Reebok,3840,2.7,shoes
+172,Puma Shoes 172,Puma training shoes for gym,Puma,1347,1.2,shoes
+173,Adidas Shoes 173,Adidas stylish sneakers for casual wear,Adidas,1946,4.5,shoes
+174,Nike Shoes 174,Nike lightweight training shoes,Nike,4907,2.3,shoes
+175,Reebok Shoes 175,Reebok fitness shoes for workouts,Reebok,3662,2.0,shoes
+176,Adidas Shoes 176,Adidas ultraboost running shoes,Adidas,3875,2.6,shoes
+177,Reebok Shoes 177,Reebok fitness shoes for workouts,Reebok,2075,4.1,shoes
+178,Adidas Shoes 178,Adidas comfortable street shoes,Adidas,706,1.7,shoes
+179,Nike Shoes 179,Nike running shoes for athletes,Nike,4988,2.2,shoes
+180,Puma Shoes 180,Puma lightweight running shoes,Puma,1405,3.9,shoes
+181,Adidas Shoes 181,Adidas ultraboost running shoes,Adidas,3514,4.4,shoes
+182,Puma Shoes 182,Puma training shoes for gym,Puma,1710,2.4,shoes
+183,Adidas Shoes 183,Adidas comfortable street shoes,Adidas,999,2.5,shoes
+184,Nike Shoes 184,Nike running shoes for athletes,Nike,4050,1.1,shoes
+185,Puma Shoes 185,Puma lightweight running shoes,Puma,3878,2.2,shoes
+186,Nike Shoes 186,Nike lightweight training shoes,Nike,3826,3.0,shoes
+187,Reebok Shoes 187,Reebok gym training sneakers,Reebok,1371,4.7,shoes
+188,Adidas Shoes 188,Adidas stylish sneakers for casual wear,Adidas,2121,1.4,shoes
+189,Reebok Shoes 189,Reebok fitness shoes for workouts,Reebok,1502,3.1,shoes
+190,Reebok Shoes 190,Reebok fitness shoes for workouts,Reebok,1872,1.9,shoes
+191,Nike Shoes 191,Nike lightweight training shoes,Nike,4225,1.6,shoes
+192,Adidas Shoes 192,Adidas ultraboost running shoes,Adidas,3576,1.8,shoes
+193,Nike Shoes 193,Nike lightweight training shoes,Nike,3811,2.8,shoes
+194,Nike Shoes 194,Nike sports shoes for high performance,Nike,1694,2.5,shoes
+195,Puma Shoes 195,Puma sports shoes for daily use,Puma,4685,3.0,shoes
+196,Nike Shoes 196,Nike running shoes for athletes,Nike,1920,4.4,shoes
+197,Adidas Shoes 197,Adidas comfortable street shoes,Adidas,4866,3.8,shoes
+198,Reebok Shoes 198,Reebok durable running shoes,Reebok,2564,4.8,shoes
+199,Reebok Shoes 199,Reebok fitness shoes for workouts,Reebok,4802,4.4,shoes
+200,Reebok Shoes 200,Reebok durable running shoes,Reebok,2942,4.8,shoes
+201,Nike Shoes 201,Nike lightweight training shoes,Nike,1732,2.0,shoes
+202,Nike Shoes 202,Nike sports shoes for high performance,Nike,4222,3.3,shoes
+203,Reebok Shoes 203,Reebok gym training sneakers,Reebok,3202,2.9,shoes
+204,Reebok Shoes 204,Reebok fitness shoes for workouts,Reebok,1349,2.2,shoes
+205,Puma Shoes 205,Puma training shoes for gym,Puma,1489,1.5,shoes
+206,Puma Shoes 206,Puma sports shoes for daily use,Puma,2324,2.1,shoes
+207,Puma Shoes 207,Puma sports shoes for daily use,Puma,502,3.7,shoes
+208,Nike Shoes 208,Nike lightweight training shoes,Nike,2053,4.3,shoes
+209,Adidas Shoes 209,Adidas comfortable street shoes,Adidas,2926,1.9,shoes
+210,Adidas Shoes 210,Adidas stylish sneakers for casual wear,Adidas,1938,3.4,shoes
+211,Reebok Shoes 211,Reebok durable running shoes,Reebok,1295,1.1,shoes
+212,Nike Shoes 212,Nike lightweight training shoes,Nike,3874,3.1,shoes
+213,Adidas Shoes 213,Adidas stylish sneakers for casual wear,Adidas,907,3.1,shoes
+214,Adidas Shoes 214,Adidas comfortable street shoes,Adidas,1522,4.6,shoes
+215,Reebok Shoes 215,Reebok fitness shoes for workouts,Reebok,2963,2.3,shoes
+216,Puma Shoes 216,Puma training shoes for gym,Puma,1134,3.0,shoes
+217,Adidas Shoes 217,Adidas stylish sneakers for casual wear,Adidas,2418,4.7,shoes
+218,Puma Shoes 218,Puma lightweight running shoes,Puma,3179,5.0,shoes
+219,Nike Shoes 219,Nike sports shoes for high performance,Nike,4525,3.5,shoes
+220,Nike Shoes 220,Nike running shoes for athletes,Nike,1795,2.2,shoes
+221,Adidas Shoes 221,Adidas stylish sneakers for casual wear,Adidas,1043,4.5,shoes
+222,Nike Shoes 222,Nike running shoes for athletes,Nike,4446,1.8,shoes
+223,Puma Shoes 223,Puma training shoes for gym,Puma,2971,1.1,shoes
+224,Reebok Shoes 224,Reebok durable running shoes,Reebok,2501,3.2,shoes
+225,Nike Shoes 225,Nike running shoes for athletes,Nike,1368,1.6,shoes
+226,Puma Shoes 226,Puma lightweight running shoes,Puma,3491,4.4,shoes
+227,Puma Shoes 227,Puma training shoes for gym,Puma,2397,1.9,shoes
+228,Nike Shoes 228,Nike lightweight training shoes,Nike,1389,4.1,shoes
+229,Puma Shoes 229,Puma sports shoes for daily use,Puma,4940,3.3,shoes
+230,Puma Shoes 230,Puma sports shoes for daily use,Puma,1852,2.4,shoes
+231,Adidas Shoes 231,Adidas ultraboost running shoes,Adidas,1224,3.6,shoes
+232,Nike Shoes 232,Nike running shoes for athletes,Nike,585,1.4,shoes
+233,Nike Shoes 233,Nike running shoes for athletes,Nike,4225,1.4,shoes
+234,Puma Shoes 234,Puma sports shoes for daily use,Puma,2247,3.7,shoes
+235,Adidas Shoes 235,Adidas comfortable street shoes,Adidas,4201,2.0,shoes
+236,Reebok Shoes 236,Reebok gym training sneakers,Reebok,545,4.3,shoes
+237,Nike Shoes 237,Nike lightweight training shoes,Nike,3062,4.0,shoes
+238,Nike Shoes 238,Nike running shoes for athletes,Nike,1192,4.4,shoes
+239,Adidas Shoes 239,Adidas ultraboost running shoes,Adidas,4991,1.0,shoes
+240,Nike Shoes 240,Nike sports shoes for high performance,Nike,3910,4.8,shoes
+241,Puma Shoes 241,Puma sports shoes for daily use,Puma,2847,5.0,shoes
+242,Adidas Shoes 242,Adidas stylish sneakers for casual wear,Adidas,4422,3.2,shoes
+243,Nike Shoes 243,Nike lightweight training shoes,Nike,2681,3.0,shoes
+244,Reebok Shoes 244,Reebok gym training sneakers,Reebok,2047,4.9,shoes
+245,Reebok Shoes 245,Reebok fitness shoes for workouts,Reebok,4416,1.5,shoes
+246,Adidas Shoes 246,Adidas ultraboost running shoes,Adidas,2052,4.4,shoes
+247,Reebok Shoes 247,Reebok durable running shoes,Reebok,1661,1.9,shoes
+248,Adidas Shoes 248,Adidas stylish sneakers for casual wear,Adidas,3350,1.8,shoes
+249,Nike Shoes 249,Nike lightweight training shoes,Nike,4978,1.9,shoes
+250,Adidas Shoes 250,Adidas comfortable street shoes,Adidas,3268,1.3,shoes
+251,Nike Shoes 251,Nike running shoes for athletes,Nike,1001,1.7,shoes
+252,Puma Shoes 252,Puma sports shoes for daily use,Puma,747,2.0,shoes
+253,Nike Shoes 253,Nike running shoes for athletes,Nike,1251,1.6,shoes
+254,Adidas Shoes 254,Adidas comfortable street shoes,Adidas,3688,4.3,shoes
+255,Puma Shoes 255,Puma sports shoes for daily use,Puma,2040,1.5,shoes
+256,Puma Shoes 256,Puma lightweight running shoes,Puma,4696,3.4,shoes
+257,Puma Shoes 257,Puma sports shoes for daily use,Puma,3453,3.4,shoes
+258,Reebok Shoes 258,Reebok durable running shoes,Reebok,2088,2.1,shoes
+259,Adidas Shoes 259,Adidas comfortable street shoes,Adidas,3402,4.4,shoes
+260,Nike Shoes 260,Nike lightweight training shoes,Nike,1425,4.5,shoes
+261,Adidas Shoes 261,Adidas comfortable street shoes,Adidas,2775,2.6,shoes
+262,Reebok Shoes 262,Reebok durable running shoes,Reebok,4105,4.2,shoes
+263,Adidas Shoes 263,Adidas ultraboost running shoes,Adidas,3746,2.1,shoes
+264,Puma Shoes 264,Puma sports shoes for daily use,Puma,1741,4.8,shoes
+265,Nike Shoes 265,Nike running shoes for athletes,Nike,1140,4.2,shoes
+266,Reebok Shoes 266,Reebok durable running shoes,Reebok,2588,3.6,shoes
+267,Reebok Shoes 267,Reebok fitness shoes for workouts,Reebok,698,4.3,shoes
+268,Adidas Shoes 268,Adidas stylish sneakers for casual wear,Adidas,3208,1.3,shoes
+269,Puma Shoes 269,Puma sports shoes for daily use,Puma,515,2.6,shoes
+270,Puma Shoes 270,Puma sports shoes for daily use,Puma,2023,1.9,shoes
+271,Puma Shoes 271,Puma sports shoes for daily use,Puma,1557,3.9,shoes
+272,Reebok Shoes 272,Reebok fitness shoes for workouts,Reebok,4319,4.1,shoes
+273,Reebok Shoes 273,Reebok gym training sneakers,Reebok,2982,3.9,shoes
+274,Adidas Shoes 274,Adidas ultraboost running shoes,Adidas,3871,1.5,shoes
+275,Reebok Shoes 275,Reebok gym training sneakers,Reebok,1011,3.4,shoes
+276,Adidas Shoes 276,Adidas stylish sneakers for casual wear,Adidas,3058,4.9,shoes
+277,Puma Shoes 277,Puma lightweight running shoes,Puma,1321,3.7,shoes
+278,Nike Shoes 278,Nike running shoes for athletes,Nike,2043,3.0,shoes
+279,Nike Shoes 279,Nike running shoes for athletes,Nike,1410,2.9,shoes
+280,Puma Shoes 280,Puma sports shoes for daily use,Puma,878,1.8,shoes
+281,Puma Shoes 281,Puma sports shoes for daily use,Puma,4937,1.2,shoes
+282,Nike Shoes 282,Nike lightweight training shoes,Nike,825,2.3,shoes
+283,Nike Shoes 283,Nike lightweight training shoes,Nike,1986,2.6,shoes
+284,Reebok Shoes 284,Reebok fitness shoes for workouts,Reebok,1059,3.5,shoes
+285,Nike Shoes 285,Nike running shoes for athletes,Nike,4997,2.3,shoes
+286,Nike Shoes 286,Nike sports shoes for high performance,Nike,1589,2.3,shoes
+287,Nike Shoes 287,Nike sports shoes for high performance,Nike,3103,2.1,shoes
+288,Nike Shoes 288,Nike lightweight training shoes,Nike,3480,1.3,shoes
+289,Puma Shoes 289,Puma lightweight running shoes,Puma,2264,3.0,shoes
+290,Puma Shoes 290,Puma sports shoes for daily use,Puma,2162,1.3,shoes
+291,Reebok Shoes 291,Reebok gym training sneakers,Reebok,1841,3.8,shoes
+292,Nike Shoes 292,Nike lightweight training shoes,Nike,3259,2.9,shoes
+293,Puma Shoes 293,Puma lightweight running shoes,Puma,4803,2.6,shoes
+294,Adidas Shoes 294,Adidas stylish sneakers for casual wear,Adidas,3712,2.6,shoes
+295,Puma Shoes 295,Puma training shoes for gym,Puma,3733,4.3,shoes
+296,Reebok Shoes 296,Reebok durable running shoes,Reebok,4400,1.1,shoes
+297,Puma Shoes 297,Puma training shoes for gym,Puma,1282,4.3,shoes
+298,Nike Shoes 298,Nike lightweight training shoes,Nike,1923,1.4,shoes
+299,Reebok Shoes 299,Reebok gym training sneakers,Reebok,940,3.1,shoes
+300,Nike Shoes 300,Nike lightweight training shoes,Nike,2843,4.9,shoes
+301,Adidas Shoes 301,Adidas ultraboost running shoes,Adidas,4043,4.6,shoes
+302,Puma Shoes 302,Puma lightweight running shoes,Puma,2874,3.1,shoes
+303,Reebok Shoes 303,Reebok gym training sneakers,Reebok,3097,5.0,shoes
+304,Adidas Shoes 304,Adidas ultraboost running shoes,Adidas,701,4.3,shoes
+305,Nike Shoes 305,Nike sports shoes for high performance,Nike,695,3.2,shoes
+306,Adidas Shoes 306,Adidas ultraboost running shoes,Adidas,4059,3.3,shoes
+307,Adidas Shoes 307,Adidas ultraboost running shoes,Adidas,3733,3.0,shoes
+308,Reebok Shoes 308,Reebok gym training sneakers,Reebok,2654,4.0,shoes
+309,Reebok Shoes 309,Reebok durable running shoes,Reebok,2574,2.6,shoes
+310,Adidas Shoes 310,Adidas stylish sneakers for casual wear,Adidas,3572,4.0,shoes
+311,Nike Shoes 311,Nike running shoes for athletes,Nike,3314,3.7,shoes
+312,Nike Shoes 312,Nike lightweight training shoes,Nike,1057,2.4,shoes
+313,Adidas Shoes 313,Adidas stylish sneakers for casual wear,Adidas,2132,3.6,shoes
+314,Reebok Shoes 314,Reebok fitness shoes for workouts,Reebok,532,1.1,shoes
+315,Puma Shoes 315,Puma sports shoes for daily use,Puma,4631,3.8,shoes
+316,Adidas Shoes 316,Adidas ultraboost running shoes,Adidas,3093,4.6,shoes
+317,Reebok Shoes 317,Reebok gym training sneakers,Reebok,1447,3.9,shoes
+318,Adidas Shoes 318,Adidas comfortable street shoes,Adidas,799,3.1,shoes
+319,Nike Shoes 319,Nike lightweight training shoes,Nike,1314,4.7,shoes
+320,Puma Shoes 320,Puma training shoes for gym,Puma,4389,3.0,shoes
+321,Reebok Shoes 321,Reebok durable running shoes,Reebok,2252,1.0,shoes
+322,Adidas Shoes 322,Adidas comfortable street shoes,Adidas,1086,1.0,shoes
+323,Adidas Shoes 323,Adidas stylish sneakers for casual wear,Adidas,2595,2.6,shoes
+324,Adidas Shoes 324,Adidas comfortable street shoes,Adidas,1285,3.9,shoes
+325,Reebok Shoes 325,Reebok durable running shoes,Reebok,4401,4.0,shoes
+326,Adidas Shoes 326,Adidas ultraboost running shoes,Adidas,2117,1.4,shoes
+327,Puma Shoes 327,Puma sports shoes for daily use,Puma,536,3.9,shoes
+328,Reebok Shoes 328,Reebok durable running shoes,Reebok,2960,2.3,shoes
+329,Reebok Shoes 329,Reebok durable running shoes,Reebok,2633,1.3,shoes
+330,Adidas Shoes 330,Adidas comfortable street shoes,Adidas,1825,1.8,shoes
+331,Puma Shoes 331,Puma sports shoes for daily use,Puma,2749,2.9,shoes
+332,Reebok Shoes 332,Reebok fitness shoes for workouts,Reebok,4251,2.3,shoes
+333,Reebok Shoes 333,Reebok gym training sneakers,Reebok,3709,3.3,shoes
+334,Adidas Shoes 334,Adidas ultraboost running shoes,Adidas,1574,3.5,shoes
+335,Reebok Shoes 335,Reebok fitness shoes for workouts,Reebok,1758,4.3,shoes
+336,Nike Shoes 336,Nike running shoes for athletes,Nike,1568,3.7,shoes
+337,Puma Shoes 337,Puma sports shoes for daily use,Puma,3153,3.6,shoes
+338,Puma Shoes 338,Puma lightweight running shoes,Puma,3096,2.0,shoes
+339,Adidas Shoes 339,Adidas comfortable street shoes,Adidas,2621,4.9,shoes
+340,Reebok Shoes 340,Reebok fitness shoes for workouts,Reebok,4191,1.9,shoes
+341,Adidas Shoes 341,Adidas stylish sneakers for casual wear,Adidas,2754,1.6,shoes
+342,Puma Shoes 342,Puma sports shoes for daily use,Puma,687,2.7,shoes
+343,Puma Shoes 343,Puma training shoes for gym,Puma,2170,2.8,shoes
+344,Puma Shoes 344,Puma sports shoes for daily use,Puma,2455,3.7,shoes
+345,Adidas Shoes 345,Adidas stylish sneakers for casual wear,Adidas,4536,2.2,shoes
+346,Puma Shoes 346,Puma sports shoes for daily use,Puma,1507,2.2,shoes
+347,Puma Shoes 347,Puma sports shoes for daily use,Puma,1345,3.0,shoes
+348,Reebok Shoes 348,Reebok durable running shoes,Reebok,2265,3.9,shoes
+349,Nike Shoes 349,Nike lightweight training shoes,Nike,2208,3.8,shoes
+350,Nike Shoes 350,Nike lightweight training shoes,Nike,1291,3.3,shoes
+351,Reebok Shoes 351,Reebok fitness shoes for workouts,Reebok,1736,4.5,shoes
+352,Nike Shoes 352,Nike lightweight training shoes,Nike,4749,2.3,shoes
+353,Adidas Shoes 353,Adidas comfortable street shoes,Adidas,4344,2.1,shoes
+354,Nike Shoes 354,Nike lightweight training shoes,Nike,2462,4.9,shoes
+355,Reebok Shoes 355,Reebok durable running shoes,Reebok,3814,2.5,shoes
+356,Adidas Shoes 356,Adidas ultraboost running shoes,Adidas,4281,2.7,shoes
+357,Puma Shoes 357,Puma sports shoes for daily use,Puma,4211,4.7,shoes
+358,Reebok Shoes 358,Reebok gym training sneakers,Reebok,4851,3.9,shoes
+359,Nike Shoes 359,Nike sports shoes for high performance,Nike,4879,2.7,shoes
+360,Reebok Shoes 360,Reebok gym training sneakers,Reebok,4084,1.6,shoes
+361,Reebok Shoes 361,Reebok durable running shoes,Reebok,1411,3.9,shoes
+362,Adidas Shoes 362,Adidas comfortable street shoes,Adidas,3120,1.5,shoes
+363,Nike Shoes 363,Nike lightweight training shoes,Nike,772,1.5,shoes
+364,Adidas Shoes 364,Adidas ultraboost running shoes,Adidas,2751,3.0,shoes
+365,Adidas Shoes 365,Adidas ultraboost running shoes,Adidas,3452,4.4,shoes
+366,Adidas Shoes 366,Adidas stylish sneakers for casual wear,Adidas,4314,1.8,shoes
+367,Reebok Shoes 367,Reebok durable running shoes,Reebok,2393,2.5,shoes
+368,Nike Shoes 368,Nike running shoes for athletes,Nike,1384,1.5,shoes
+369,Adidas Shoes 369,Adidas comfortable street shoes,Adidas,4388,2.8,shoes
+370,Puma Shoes 370,Puma lightweight running shoes,Puma,1371,3.0,shoes
+371,Puma Shoes 371,Puma lightweight running shoes,Puma,2203,2.1,shoes
+372,Reebok Shoes 372,Reebok durable running shoes,Reebok,4752,3.0,shoes
+373,Reebok Shoes 373,Reebok fitness shoes for workouts,Reebok,4411,3.1,shoes
+374,Puma Shoes 374,Puma sports shoes for daily use,Puma,853,2.9,shoes
+375,Puma Shoes 375,Puma training shoes for gym,Puma,3420,2.2,shoes
+376,Nike Shoes 376,Nike running shoes for athletes,Nike,3335,4.6,shoes
+377,Puma Shoes 377,Puma lightweight running shoes,Puma,1295,4.1,shoes
+378,Adidas Shoes 378,Adidas comfortable street shoes,Adidas,4743,2.6,shoes
+379,Nike Shoes 379,Nike running shoes for athletes,Nike,2089,4.5,shoes
+380,Reebok Shoes 380,Reebok gym training sneakers,Reebok,3335,4.5,shoes
+381,Nike Shoes 381,Nike running shoes for athletes,Nike,1571,4.1,shoes
+382,Reebok Shoes 382,Reebok gym training sneakers,Reebok,1278,1.2,shoes
+383,Adidas Shoes 383,Adidas comfortable street shoes,Adidas,1348,4.5,shoes
+384,Adidas Shoes 384,Adidas stylish sneakers for casual wear,Adidas,1783,4.5,shoes
+385,Adidas Shoes 385,Adidas stylish sneakers for casual wear,Adidas,1178,2.9,shoes
+386,Adidas Shoes 386,Adidas comfortable street shoes,Adidas,4012,1.0,shoes
+387,Nike Shoes 387,Nike lightweight training shoes,Nike,3059,4.7,shoes
+388,Puma Shoes 388,Puma training shoes for gym,Puma,1306,3.6,shoes
+389,Puma Shoes 389,Puma training shoes for gym,Puma,1103,3.9,shoes
+390,Puma Shoes 390,Puma lightweight running shoes,Puma,1795,2.0,shoes
+391,Puma Shoes 391,Puma training shoes for gym,Puma,3006,2.7,shoes
+392,Reebok Shoes 392,Reebok fitness shoes for workouts,Reebok,690,1.8,shoes
+393,Nike Shoes 393,Nike lightweight training shoes,Nike,1663,3.6,shoes
+394,Puma Shoes 394,Puma training shoes for gym,Puma,4119,2.5,shoes
+395,Puma Shoes 395,Puma sports shoes for daily use,Puma,2030,2.0,shoes
+396,Reebok Shoes 396,Reebok durable running shoes,Reebok,3961,1.1,shoes
+397,Nike Shoes 397,Nike sports shoes for high performance,Nike,4332,3.2,shoes
+398,Nike Shoes 398,Nike running shoes for athletes,Nike,1877,3.9,shoes
+399,Reebok Shoes 399,Reebok gym training sneakers,Reebok,1016,1.1,shoes
+400,Puma Shoes 400,Puma lightweight running shoes,Puma,2216,2.2,shoes
+401,Reebok Shoes 401,Reebok durable running shoes,Reebok,1493,4.1,shoes
+402,Nike Shoes 402,Nike sports shoes for high performance,Nike,585,4.2,shoes
+403,Puma Shoes 403,Puma lightweight running shoes,Puma,4685,1.0,shoes
+404,Reebok Shoes 404,Reebok gym training sneakers,Reebok,3186,2.6,shoes
+405,Reebok Shoes 405,Reebok fitness shoes for workouts,Reebok,2320,1.1,shoes
+406,Reebok Shoes 406,Reebok gym training sneakers,Reebok,544,2.8,shoes
+407,Puma Shoes 407,Puma lightweight running shoes,Puma,1050,1.1,shoes
+408,Puma Shoes 408,Puma lightweight running shoes,Puma,2353,3.4,shoes
+409,Puma Shoes 409,Puma training shoes for gym,Puma,3079,1.8,shoes
+410,Adidas Shoes 410,Adidas comfortable street shoes,Adidas,522,2.4,shoes
+411,Adidas Shoes 411,Adidas stylish sneakers for casual wear,Adidas,1448,4.8,shoes
+412,Puma Shoes 412,Puma lightweight running shoes,Puma,1496,4.3,shoes
+413,Adidas Shoes 413,Adidas stylish sneakers for casual wear,Adidas,1210,3.0,shoes
+414,Puma Shoes 414,Puma training shoes for gym,Puma,1005,4.1,shoes
+415,Adidas Shoes 415,Adidas stylish sneakers for casual wear,Adidas,1457,4.4,shoes
+416,Adidas Shoes 416,Adidas ultraboost running shoes,Adidas,4224,3.2,shoes
+417,Adidas Shoes 417,Adidas comfortable street shoes,Adidas,4787,2.8,shoes
+418,Nike Shoes 418,Nike running shoes for athletes,Nike,2535,3.6,shoes
+419,Nike Shoes 419,Nike running shoes for athletes,Nike,3673,2.5,shoes
+420,Adidas Shoes 420,Adidas ultraboost running shoes,Adidas,3124,1.3,shoes
+421,Puma Shoes 421,Puma lightweight running shoes,Puma,2826,3.8,shoes
+422,Adidas Shoes 422,Adidas ultraboost running shoes,Adidas,2006,2.7,shoes
+423,Adidas Shoes 423,Adidas ultraboost running shoes,Adidas,4021,1.3,shoes
+424,Reebok Shoes 424,Reebok fitness shoes for workouts,Reebok,864,2.3,shoes
+425,Reebok Shoes 425,Reebok fitness shoes for workouts,Reebok,3288,1.3,shoes
+426,Adidas Shoes 426,Adidas ultraboost running shoes,Adidas,3342,3.2,shoes
+427,Reebok Shoes 427,Reebok fitness shoes for workouts,Reebok,4713,1.6,shoes
+428,Puma Shoes 428,Puma training shoes for gym,Puma,2810,1.6,shoes
+429,Adidas Shoes 429,Adidas stylish sneakers for casual wear,Adidas,2097,2.1,shoes
+430,Reebok Shoes 430,Reebok gym training sneakers,Reebok,4992,3.1,shoes
+431,Reebok Shoes 431,Reebok fitness shoes for workouts,Reebok,1069,1.4,shoes
+432,Puma Shoes 432,Puma lightweight running shoes,Puma,3062,2.2,shoes
+433,Nike Shoes 433,Nike running shoes for athletes,Nike,1706,4.8,shoes
+434,Reebok Shoes 434,Reebok durable running shoes,Reebok,758,3.6,shoes
+435,Puma Shoes 435,Puma training shoes for gym,Puma,2470,4.1,shoes
+436,Adidas Shoes 436,Adidas stylish sneakers for casual wear,Adidas,2496,4.4,shoes
+437,Adidas Shoes 437,Adidas ultraboost running shoes,Adidas,513,3.0,shoes
+438,Puma Shoes 438,Puma lightweight running shoes,Puma,649,2.2,shoes
+439,Reebok Shoes 439,Reebok durable running shoes,Reebok,3003,2.5,shoes
+440,Nike Shoes 440,Nike running shoes for athletes,Nike,748,4.7,shoes
+441,Puma Shoes 441,Puma lightweight running shoes,Puma,3231,1.0,shoes
+442,Reebok Shoes 442,Reebok fitness shoes for workouts,Reebok,1526,1.8,shoes
+443,Adidas Shoes 443,Adidas stylish sneakers for casual wear,Adidas,2456,4.8,shoes
+444,Adidas Shoes 444,Adidas comfortable street shoes,Adidas,2935,1.2,shoes
+445,Puma Shoes 445,Puma lightweight running shoes,Puma,4188,1.6,shoes
+446,Nike Shoes 446,Nike running shoes for athletes,Nike,1478,1.4,shoes
+447,Puma Shoes 447,Puma sports shoes for daily use,Puma,555,3.3,shoes
+448,Reebok Shoes 448,Reebok fitness shoes for workouts,Reebok,2831,1.1,shoes
+449,Nike Shoes 449,Nike lightweight training shoes,Nike,4263,1.6,shoes
+450,Reebok Shoes 450,Reebok gym training sneakers,Reebok,4548,3.8,shoes
+451,Reebok Shoes 451,Reebok gym training sneakers,Reebok,4020,1.1,shoes
+452,Adidas Shoes 452,Adidas ultraboost running shoes,Adidas,1777,3.2,shoes
+453,Reebok Shoes 453,Reebok durable running shoes,Reebok,1978,1.6,shoes
+454,Reebok Shoes 454,Reebok gym training sneakers,Reebok,2312,2.6,shoes
+455,Puma Shoes 455,Puma lightweight running shoes,Puma,812,3.7,shoes
+456,Reebok Shoes 456,Reebok durable running shoes,Reebok,700,1.8,shoes
+457,Nike Shoes 457,Nike lightweight training shoes,Nike,3761,2.2,shoes
+458,Nike Shoes 458,Nike sports shoes for high performance,Nike,1588,1.8,shoes
+459,Puma Shoes 459,Puma training shoes for gym,Puma,4114,2.5,shoes
+460,Adidas Shoes 460,Adidas comfortable street shoes,Adidas,535,2.9,shoes
+461,Puma Shoes 461,Puma sports shoes for daily use,Puma,4294,2.2,shoes
+462,Nike Shoes 462,Nike lightweight training shoes,Nike,4690,4.4,shoes
+463,Reebok Shoes 463,Reebok fitness shoes for workouts,Reebok,690,1.7,shoes
+464,Puma Shoes 464,Puma sports shoes for daily use,Puma,641,2.9,shoes
+465,Adidas Shoes 465,Adidas ultraboost running shoes,Adidas,3975,3.3,shoes
+466,Puma Shoes 466,Puma training shoes for gym,Puma,4353,3.7,shoes
+467,Adidas Shoes 467,Adidas comfortable street shoes,Adidas,1817,1.0,shoes
+468,Puma Shoes 468,Puma training shoes for gym,Puma,4177,3.8,shoes
+469,Nike Shoes 469,Nike running shoes for athletes,Nike,3764,3.0,shoes
+470,Adidas Shoes 470,Adidas ultraboost running shoes,Adidas,4439,4.7,shoes
+471,Reebok Shoes 471,Reebok gym training sneakers,Reebok,3037,3.2,shoes
+472,Nike Shoes 472,Nike running shoes for athletes,Nike,2428,4.0,shoes
+473,Adidas Shoes 473,Adidas ultraboost running shoes,Adidas,4310,1.4,shoes
+474,Adidas Shoes 474,Adidas stylish sneakers for casual wear,Adidas,4460,1.0,shoes
+475,Reebok Shoes 475,Reebok durable running shoes,Reebok,2148,1.4,shoes
+476,Nike Shoes 476,Nike lightweight training shoes,Nike,2953,4.5,shoes
+477,Puma Shoes 477,Puma training shoes for gym,Puma,1613,2.0,shoes
+478,Adidas Shoes 478,Adidas comfortable street shoes,Adidas,3517,3.2,shoes
+479,Reebok Shoes 479,Reebok gym training sneakers,Reebok,2523,2.0,shoes
+480,Nike Shoes 480,Nike running shoes for athletes,Nike,849,1.9,shoes
+481,Reebok Shoes 481,Reebok fitness shoes for workouts,Reebok,4437,1.4,shoes
+482,Reebok Shoes 482,Reebok fitness shoes for workouts,Reebok,2524,3.9,shoes
+483,Nike Shoes 483,Nike lightweight training shoes,Nike,1332,3.9,shoes
+484,Reebok Shoes 484,Reebok durable running shoes,Reebok,1823,1.3,shoes
+485,Reebok Shoes 485,Reebok gym training sneakers,Reebok,1134,2.2,shoes
+486,Nike Shoes 486,Nike lightweight training shoes,Nike,2576,3.3,shoes
+487,Puma Shoes 487,Puma training shoes for gym,Puma,932,3.8,shoes
+488,Reebok Shoes 488,Reebok durable running shoes,Reebok,814,1.3,shoes
+489,Nike Shoes 489,Nike running shoes for athletes,Nike,4043,3.1,shoes
+490,Adidas Shoes 490,Adidas stylish sneakers for casual wear,Adidas,2902,4.0,shoes
+491,Reebok Shoes 491,Reebok durable running shoes,Reebok,4388,1.1,shoes
+492,Puma Shoes 492,Puma sports shoes for daily use,Puma,1177,3.9,shoes
+493,Reebok Shoes 493,Reebok fitness shoes for workouts,Reebok,614,2.0,shoes
+494,Puma Shoes 494,Puma training shoes for gym,Puma,1749,1.9,shoes
+495,Reebok Shoes 495,Reebok durable running shoes,Reebok,3596,4.9,shoes
+496,Puma Shoes 496,Puma lightweight running shoes,Puma,2487,2.5,shoes
+497,Puma Shoes 497,Puma training shoes for gym,Puma,2451,2.1,shoes
+498,Reebok Shoes 498,Reebok gym training sneakers,Reebok,1592,4.1,shoes
+499,Nike Shoes 499,Nike running shoes for athletes,Nike,792,2.4,shoes
+500,Nike Shoes 500,Nike sports shoes for high performance,Nike,3204,4.3,shoes
+501,Nike Shoes 501,Nike sports shoes for high performance,Nike,1666,1.9,shoes
+502,Adidas Shoes 502,Adidas comfortable street shoes,Adidas,3565,4.7,shoes
+503,Adidas Shoes 503,Adidas ultraboost running shoes,Adidas,3829,3.1,shoes
+504,Adidas Shoes 504,Adidas stylish sneakers for casual wear,Adidas,1676,1.8,shoes
+505,Puma Shoes 505,Puma lightweight running shoes,Puma,2127,1.1,shoes
+506,Puma Shoes 506,Puma training shoes for gym,Puma,2099,1.4,shoes
+507,Puma Shoes 507,Puma sports shoes for daily use,Puma,4124,1.2,shoes
+508,Reebok Shoes 508,Reebok gym training sneakers,Reebok,3338,1.5,shoes
+509,Reebok Shoes 509,Reebok durable running shoes,Reebok,863,2.6,shoes
+510,Puma Shoes 510,Puma training shoes for gym,Puma,551,2.9,shoes
+511,Reebok Shoes 511,Reebok durable running shoes,Reebok,808,3.7,shoes
+512,Reebok Shoes 512,Reebok gym training sneakers,Reebok,3056,1.3,shoes
+513,Reebok Shoes 513,Reebok durable running shoes,Reebok,4930,2.1,shoes
+514,Nike Shoes 514,Nike running shoes for athletes,Nike,4953,3.4,shoes
+515,Nike Shoes 515,Nike lightweight training shoes,Nike,4826,4.1,shoes
+516,Nike Shoes 516,Nike running shoes for athletes,Nike,2547,1.9,shoes
+517,Adidas Shoes 517,Adidas ultraboost running shoes,Adidas,3732,1.6,shoes
+518,Nike Shoes 518,Nike running shoes for athletes,Nike,3447,3.7,shoes
+519,Reebok Shoes 519,Reebok durable running shoes,Reebok,1568,2.6,shoes
+520,Nike Shoes 520,Nike sports shoes for high performance,Nike,4448,1.8,shoes
+521,Reebok Shoes 521,Reebok fitness shoes for workouts,Reebok,546,2.4,shoes
+522,Nike Shoes 522,Nike lightweight training shoes,Nike,1371,4.4,shoes
+523,Adidas Shoes 523,Adidas comfortable street shoes,Adidas,795,2.9,shoes
+524,Puma Shoes 524,Puma lightweight running shoes,Puma,4934,1.9,shoes
+525,Puma Shoes 525,Puma lightweight running shoes,Puma,4761,3.0,shoes
+526,Adidas Shoes 526,Adidas comfortable street shoes,Adidas,3403,3.9,shoes
+527,Reebok Shoes 527,Reebok fitness shoes for workouts,Reebok,4491,4.1,shoes
+528,Adidas Shoes 528,Adidas comfortable street shoes,Adidas,1639,3.0,shoes
+529,Adidas Shoes 529,Adidas stylish sneakers for casual wear,Adidas,3346,3.1,shoes
+530,Puma Shoes 530,Puma lightweight running shoes,Puma,953,2.4,shoes
+531,Reebok Shoes 531,Reebok durable running shoes,Reebok,2571,5.0,shoes
+532,Reebok Shoes 532,Reebok fitness shoes for workouts,Reebok,4893,2.4,shoes
+533,Adidas Shoes 533,Adidas ultraboost running shoes,Adidas,1075,4.4,shoes
+534,Nike Shoes 534,Nike sports shoes for high performance,Nike,3697,4.3,shoes
+535,Reebok Shoes 535,Reebok durable running shoes,Reebok,725,3.1,shoes
+536,Puma Shoes 536,Puma training shoes for gym,Puma,1189,4.4,shoes
+537,Adidas Shoes 537,Adidas comfortable street shoes,Adidas,996,2.3,shoes
+538,Nike Shoes 538,Nike sports shoes for high performance,Nike,3020,1.1,shoes
+539,Adidas Shoes 539,Adidas stylish sneakers for casual wear,Adidas,2686,2.2,shoes
+540,Nike Shoes 540,Nike sports shoes for high performance,Nike,1772,4.9,shoes
+541,Adidas Shoes 541,Adidas ultraboost running shoes,Adidas,2915,2.0,shoes
+542,Nike Shoes 542,Nike running shoes for athletes,Nike,2653,4.4,shoes
+543,Reebok Shoes 543,Reebok gym training sneakers,Reebok,2513,4.1,shoes
+544,Nike Shoes 544,Nike lightweight training shoes,Nike,1619,1.1,shoes
+545,Puma Shoes 545,Puma training shoes for gym,Puma,4216,2.5,shoes
+546,Nike Shoes 546,Nike lightweight training shoes,Nike,1562,1.4,shoes
+547,Adidas Shoes 547,Adidas ultraboost running shoes,Adidas,1154,1.7,shoes
+548,Nike Shoes 548,Nike running shoes for athletes,Nike,4656,4.0,shoes
+549,Reebok Shoes 549,Reebok gym training sneakers,Reebok,4467,1.9,shoes
+550,Adidas Shoes 550,Adidas ultraboost running shoes,Adidas,2332,4.5,shoes
+551,Reebok Shoes 551,Reebok durable running shoes,Reebok,3691,4.2,shoes
+552,Adidas Shoes 552,Adidas comfortable street shoes,Adidas,766,3.3,shoes
+553,Adidas Shoes 553,Adidas ultraboost running shoes,Adidas,2036,3.0,shoes
+554,Reebok Shoes 554,Reebok fitness shoes for workouts,Reebok,4261,2.4,shoes
+555,Nike Shoes 555,Nike running shoes for athletes,Nike,1214,1.8,shoes
+556,Reebok Shoes 556,Reebok fitness shoes for workouts,Reebok,1568,3.3,shoes
+557,Reebok Shoes 557,Reebok durable running shoes,Reebok,4278,4.9,shoes
+558,Nike Shoes 558,Nike lightweight training shoes,Nike,4420,3.6,shoes
+559,Adidas Shoes 559,Adidas stylish sneakers for casual wear,Adidas,4440,2.5,shoes
+560,Puma Shoes 560,Puma lightweight running shoes,Puma,2351,3.6,shoes
+561,Nike Shoes 561,Nike sports shoes for high performance,Nike,1919,3.5,shoes
+562,Adidas Shoes 562,Adidas stylish sneakers for casual wear,Adidas,2732,3.5,shoes
+563,Adidas Shoes 563,Adidas comfortable street shoes,Adidas,1642,2.6,shoes
+564,Nike Shoes 564,Nike running shoes for athletes,Nike,2051,3.4,shoes
+565,Nike Shoes 565,Nike sports shoes for high performance,Nike,3855,1.5,shoes
+566,Reebok Shoes 566,Reebok gym training sneakers,Reebok,1797,4.2,shoes
+567,Nike Shoes 567,Nike sports shoes for high performance,Nike,2963,4.2,shoes
+568,Puma Shoes 568,Puma lightweight running shoes,Puma,4409,3.9,shoes
+569,Puma Shoes 569,Puma lightweight running shoes,Puma,3937,1.1,shoes
+570,Reebok Shoes 570,Reebok durable running shoes,Reebok,3469,1.6,shoes
+571,Reebok Shoes 571,Reebok durable running shoes,Reebok,1801,1.4,shoes
+572,Adidas Shoes 572,Adidas ultraboost running shoes,Adidas,3001,3.6,shoes
+573,Nike Shoes 573,Nike running shoes for athletes,Nike,3805,1.2,shoes
+574,Reebok Shoes 574,Reebok durable running shoes,Reebok,3815,1.7,shoes
+575,Reebok Shoes 575,Reebok fitness shoes for workouts,Reebok,1273,4.8,shoes
+576,Nike Shoes 576,Nike lightweight training shoes,Nike,4857,2.5,shoes
+577,Adidas Shoes 577,Adidas ultraboost running shoes,Adidas,2139,2.7,shoes
+578,Nike Shoes 578,Nike lightweight training shoes,Nike,4461,4.5,shoes
+579,Adidas Shoes 579,Adidas comfortable street shoes,Adidas,4799,4.3,shoes
+580,Adidas Shoes 580,Adidas ultraboost running shoes,Adidas,4138,4.4,shoes
+581,Adidas Shoes 581,Adidas ultraboost running shoes,Adidas,2157,4.8,shoes
+582,Reebok Shoes 582,Reebok fitness shoes for workouts,Reebok,2920,4.0,shoes
+583,Puma Shoes 583,Puma lightweight running shoes,Puma,4727,4.4,shoes
+584,Puma Shoes 584,Puma training shoes for gym,Puma,4866,2.9,shoes
+585,Adidas Shoes 585,Adidas comfortable street shoes,Adidas,1951,4.3,shoes
+586,Nike Shoes 586,Nike lightweight training shoes,Nike,2222,1.8,shoes
+587,Nike Shoes 587,Nike lightweight training shoes,Nike,2658,2.7,shoes
+588,Adidas Shoes 588,Adidas stylish sneakers for casual wear,Adidas,1104,3.6,shoes
+589,Puma Shoes 589,Puma lightweight running shoes,Puma,4766,2.1,shoes
+590,Nike Shoes 590,Nike lightweight training shoes,Nike,771,1.6,shoes
+591,Adidas Shoes 591,Adidas ultraboost running shoes,Adidas,937,3.8,shoes
+592,Reebok Shoes 592,Reebok gym training sneakers,Reebok,2075,4.1,shoes
+593,Adidas Shoes 593,Adidas comfortable street shoes,Adidas,3434,1.7,shoes
+594,Reebok Shoes 594,Reebok durable running shoes,Reebok,1350,1.0,shoes
+595,Nike Shoes 595,Nike running shoes for athletes,Nike,4678,2.1,shoes
+596,Nike Shoes 596,Nike running shoes for athletes,Nike,4023,1.6,shoes
+597,Adidas Shoes 597,Adidas comfortable street shoes,Adidas,2768,2.2,shoes
+598,Reebok Shoes 598,Reebok durable running shoes,Reebok,4736,2.7,shoes
+599,Puma Shoes 599,Puma training shoes for gym,Puma,1439,1.1,shoes
+600,Reebok Shoes 600,Reebok gym training sneakers,Reebok,829,4.5,shoes
+601,Adidas Shoes 601,Adidas comfortable street shoes,Adidas,3083,1.5,shoes
+602,Adidas Shoes 602,Adidas ultraboost running shoes,Adidas,1024,1.1,shoes
+603,Adidas Shoes 603,Adidas ultraboost running shoes,Adidas,3422,4.3,shoes
+604,Puma Shoes 604,Puma lightweight running shoes,Puma,804,4.0,shoes
+605,Adidas Shoes 605,Adidas stylish sneakers for casual wear,Adidas,1543,3.0,shoes
+606,Reebok Shoes 606,Reebok fitness shoes for workouts,Reebok,3272,2.2,shoes
+607,Adidas Shoes 607,Adidas comfortable street shoes,Adidas,2115,2.3,shoes
+608,Puma Shoes 608,Puma training shoes for gym,Puma,624,1.2,shoes
+609,Nike Shoes 609,Nike lightweight training shoes,Nike,4445,2.3,shoes
+610,Nike Shoes 610,Nike sports shoes for high performance,Nike,3623,2.3,shoes
+611,Reebok Shoes 611,Reebok durable running shoes,Reebok,615,2.9,shoes
+612,Reebok Shoes 612,Reebok gym training sneakers,Reebok,844,4.4,shoes
+613,Adidas Shoes 613,Adidas stylish sneakers for casual wear,Adidas,4676,3.6,shoes
+614,Puma Shoes 614,Puma sports shoes for daily use,Puma,4967,3.7,shoes
+615,Puma Shoes 615,Puma lightweight running shoes,Puma,719,3.8,shoes
+616,Adidas Shoes 616,Adidas ultraboost running shoes,Adidas,2448,1.4,shoes
+617,Nike Shoes 617,Nike running shoes for athletes,Nike,3393,3.2,shoes
+618,Puma Shoes 618,Puma lightweight running shoes,Puma,4841,1.0,shoes
+619,Nike Shoes 619,Nike sports shoes for high performance,Nike,1337,3.8,shoes
+620,Puma Shoes 620,Puma sports shoes for daily use,Puma,588,3.6,shoes
+621,Adidas Shoes 621,Adidas comfortable street shoes,Adidas,550,2.3,shoes
+622,Nike Shoes 622,Nike sports shoes for high performance,Nike,3598,1.5,shoes
+623,Adidas Shoes 623,Adidas stylish sneakers for casual wear,Adidas,1947,2.5,shoes
+624,Puma Shoes 624,Puma lightweight running shoes,Puma,846,3.7,shoes
+625,Reebok Shoes 625,Reebok gym training sneakers,Reebok,2200,1.7,shoes
+626,Reebok Shoes 626,Reebok durable running shoes,Reebok,2455,3.7,shoes
+627,Adidas Shoes 627,Adidas stylish sneakers for casual wear,Adidas,1421,1.3,shoes
+628,Puma Shoes 628,Puma sports shoes for daily use,Puma,3022,3.9,shoes
+629,Puma Shoes 629,Puma sports shoes for daily use,Puma,1071,3.8,shoes
+630,Puma Shoes 630,Puma training shoes for gym,Puma,1346,3.6,shoes
+631,Puma Shoes 631,Puma lightweight running shoes,Puma,1316,4.4,shoes
+632,Nike Shoes 632,Nike running shoes for athletes,Nike,3400,1.8,shoes
+633,Reebok Shoes 633,Reebok durable running shoes,Reebok,3968,3.5,shoes
+634,Adidas Shoes 634,Adidas comfortable street shoes,Adidas,4155,3.1,shoes
+635,Nike Shoes 635,Nike sports shoes for high performance,Nike,3025,4.6,shoes
+636,Adidas Shoes 636,Adidas ultraboost running shoes,Adidas,4600,1.6,shoes
+637,Adidas Shoes 637,Adidas stylish sneakers for casual wear,Adidas,4050,4.0,shoes
+638,Nike Shoes 638,Nike lightweight training shoes,Nike,2726,3.3,shoes
+639,Nike Shoes 639,Nike sports shoes for high performance,Nike,2293,1.0,shoes
+640,Puma Shoes 640,Puma training shoes for gym,Puma,2624,1.4,shoes
+641,Puma Shoes 641,Puma training shoes for gym,Puma,4090,4.5,shoes
+642,Reebok Shoes 642,Reebok fitness shoes for workouts,Reebok,1650,3.9,shoes
+643,Nike Shoes 643,Nike lightweight training shoes,Nike,4585,3.8,shoes
+644,Adidas Shoes 644,Adidas ultraboost running shoes,Adidas,2585,1.8,shoes
+645,Nike Shoes 645,Nike sports shoes for high performance,Nike,1889,4.1,shoes
+646,Nike Shoes 646,Nike lightweight training shoes,Nike,4745,4.2,shoes
+647,Adidas Shoes 647,Adidas ultraboost running shoes,Adidas,1763,3.1,shoes
+648,Puma Shoes 648,Puma sports shoes for daily use,Puma,3233,3.8,shoes
+649,Reebok Shoes 649,Reebok fitness shoes for workouts,Reebok,946,4.2,shoes
+650,Adidas Shoes 650,Adidas comfortable street shoes,Adidas,2843,2.7,shoes
+651,Adidas Shoes 651,Adidas stylish sneakers for casual wear,Adidas,1199,3.2,shoes
+652,Puma Shoes 652,Puma lightweight running shoes,Puma,1318,2.7,shoes
+653,Puma Shoes 653,Puma training shoes for gym,Puma,2238,2.4,shoes
+654,Puma Shoes 654,Puma training shoes for gym,Puma,2337,3.4,shoes
+655,Reebok Shoes 655,Reebok durable running shoes,Reebok,3766,1.2,shoes
+656,Puma Shoes 656,Puma sports shoes for daily use,Puma,3788,2.8,shoes
+657,Nike Shoes 657,Nike running shoes for athletes,Nike,3576,3.7,shoes
+658,Adidas Shoes 658,Adidas ultraboost running shoes,Adidas,960,4.8,shoes
+659,Nike Shoes 659,Nike sports shoes for high performance,Nike,591,2.6,shoes
+660,Puma Shoes 660,Puma sports shoes for daily use,Puma,2634,4.7,shoes
+661,Puma Shoes 661,Puma sports shoes for daily use,Puma,4829,3.1,shoes
+662,Puma Shoes 662,Puma training shoes for gym,Puma,3665,4.4,shoes
+663,Puma Shoes 663,Puma sports shoes for daily use,Puma,3775,4.9,shoes
+664,Reebok Shoes 664,Reebok fitness shoes for workouts,Reebok,3769,2.2,shoes
+665,Adidas Shoes 665,Adidas ultraboost running shoes,Adidas,4536,2.3,shoes
+666,Reebok Shoes 666,Reebok durable running shoes,Reebok,3606,2.0,shoes
+667,Adidas Shoes 667,Adidas comfortable street shoes,Adidas,3885,1.2,shoes
+668,Puma Shoes 668,Puma sports shoes for daily use,Puma,667,1.3,shoes
+669,Adidas Shoes 669,Adidas ultraboost running shoes,Adidas,4439,3.7,shoes
+670,Reebok Shoes 670,Reebok gym training sneakers,Reebok,3948,1.9,shoes
+671,Adidas Shoes 671,Adidas stylish sneakers for casual wear,Adidas,2543,1.6,shoes
+672,Puma Shoes 672,Puma sports shoes for daily use,Puma,1112,3.7,shoes
+673,Nike Shoes 673,Nike running shoes for athletes,Nike,2805,4.2,shoes
+674,Nike Shoes 674,Nike sports shoes for high performance,Nike,2888,1.7,shoes
+675,Reebok Shoes 675,Reebok durable running shoes,Reebok,2383,2.3,shoes
+676,Puma Shoes 676,Puma sports shoes for daily use,Puma,1477,3.0,shoes
+677,Reebok Shoes 677,Reebok fitness shoes for workouts,Reebok,3037,4.6,shoes
+678,Puma Shoes 678,Puma training shoes for gym,Puma,1643,1.9,shoes
+679,Reebok Shoes 679,Reebok durable running shoes,Reebok,2600,4.7,shoes
+680,Reebok Shoes 680,Reebok fitness shoes for workouts,Reebok,3643,4.9,shoes
+681,Puma Shoes 681,Puma lightweight running shoes,Puma,4870,5.0,shoes
+682,Nike Shoes 682,Nike running shoes for athletes,Nike,3417,3.7,shoes
+683,Adidas Shoes 683,Adidas comfortable street shoes,Adidas,2692,1.0,shoes
+684,Reebok Shoes 684,Reebok fitness shoes for workouts,Reebok,3426,2.0,shoes
+685,Puma Shoes 685,Puma lightweight running shoes,Puma,1838,2.2,shoes
+686,Reebok Shoes 686,Reebok fitness shoes for workouts,Reebok,4857,2.0,shoes
+687,Nike Shoes 687,Nike sports shoes for high performance,Nike,1925,4.8,shoes
+688,Nike Shoes 688,Nike running shoes for athletes,Nike,4844,4.0,shoes
+689,Nike Shoes 689,Nike sports shoes for high performance,Nike,1187,3.9,shoes
+690,Nike Shoes 690,Nike lightweight training shoes,Nike,3348,3.3,shoes
+691,Reebok Shoes 691,Reebok gym training sneakers,Reebok,3378,4.6,shoes
+692,Adidas Shoes 692,Adidas comfortable street shoes,Adidas,3093,4.1,shoes
+693,Nike Shoes 693,Nike running shoes for athletes,Nike,4565,2.3,shoes
+694,Nike Shoes 694,Nike running shoes for athletes,Nike,1749,3.7,shoes
+695,Adidas Shoes 695,Adidas comfortable street shoes,Adidas,3681,4.2,shoes
+696,Puma Shoes 696,Puma training shoes for gym,Puma,4874,4.0,shoes
+697,Puma Shoes 697,Puma training shoes for gym,Puma,3540,2.3,shoes
+698,Reebok Shoes 698,Reebok fitness shoes for workouts,Reebok,929,1.9,shoes
+699,Puma Shoes 699,Puma lightweight running shoes,Puma,3436,3.1,shoes
+700,Puma Shoes 700,Puma lightweight running shoes,Puma,2306,4.4,shoes
+701,Puma Shoes 701,Puma training shoes for gym,Puma,2838,2.7,shoes
+702,Puma Shoes 702,Puma training shoes for gym,Puma,907,1.5,shoes
+703,Reebok Shoes 703,Reebok gym training sneakers,Reebok,2773,4.6,shoes
+704,Nike Shoes 704,Nike lightweight training shoes,Nike,2454,2.3,shoes
+705,Adidas Shoes 705,Adidas ultraboost running shoes,Adidas,3042,2.8,shoes
+706,Reebok Shoes 706,Reebok fitness shoes for workouts,Reebok,3030,2.0,shoes
+707,Adidas Shoes 707,Adidas comfortable street shoes,Adidas,3930,1.4,shoes
+708,Reebok Shoes 708,Reebok fitness shoes for workouts,Reebok,1478,2.5,shoes
+709,Nike Shoes 709,Nike running shoes for athletes,Nike,3690,1.6,shoes
+710,Puma Shoes 710,Puma sports shoes for daily use,Puma,697,2.3,shoes
+711,Nike Shoes 711,Nike sports shoes for high performance,Nike,3041,4.7,shoes
+712,Reebok Shoes 712,Reebok fitness shoes for workouts,Reebok,1057,3.5,shoes
+713,Puma Shoes 713,Puma lightweight running shoes,Puma,4416,3.1,shoes
+714,Adidas Shoes 714,Adidas comfortable street shoes,Adidas,4386,3.4,shoes
+715,Puma Shoes 715,Puma lightweight running shoes,Puma,2020,2.8,shoes
+716,Reebok Shoes 716,Reebok gym training sneakers,Reebok,1093,2.8,shoes
+717,Reebok Shoes 717,Reebok fitness shoes for workouts,Reebok,4821,5.0,shoes
+718,Adidas Shoes 718,Adidas comfortable street shoes,Adidas,1002,2.2,shoes
+719,Adidas Shoes 719,Adidas stylish sneakers for casual wear,Adidas,614,4.5,shoes
+720,Reebok Shoes 720,Reebok gym training sneakers,Reebok,4134,4.0,shoes
+721,Puma Shoes 721,Puma sports shoes for daily use,Puma,3696,1.8,shoes
+722,Nike Shoes 722,Nike lightweight training shoes,Nike,3602,1.4,shoes
+723,Adidas Shoes 723,Adidas ultraboost running shoes,Adidas,1605,1.5,shoes
+724,Puma Shoes 724,Puma lightweight running shoes,Puma,4236,4.1,shoes
+725,Reebok Shoes 725,Reebok durable running shoes,Reebok,4418,3.7,shoes
+726,Nike Shoes 726,Nike sports shoes for high performance,Nike,4194,3.0,shoes
+727,Reebok Shoes 727,Reebok durable running shoes,Reebok,2903,4.5,shoes
+728,Puma Shoes 728,Puma sports shoes for daily use,Puma,2001,1.1,shoes
+729,Puma Shoes 729,Puma sports shoes for daily use,Puma,4895,3.1,shoes
+730,Adidas Shoes 730,Adidas comfortable street shoes,Adidas,3209,4.4,shoes
+731,Reebok Shoes 731,Reebok durable running shoes,Reebok,3635,1.4,shoes
+732,Puma Shoes 732,Puma training shoes for gym,Puma,914,3.2,shoes
+733,Nike Shoes 733,Nike sports shoes for high performance,Nike,4501,3.5,shoes
+734,Adidas Shoes 734,Adidas stylish sneakers for casual wear,Adidas,4551,1.5,shoes
+735,Nike Shoes 735,Nike running shoes for athletes,Nike,2221,4.4,shoes
+736,Puma Shoes 736,Puma sports shoes for daily use,Puma,3072,4.2,shoes
+737,Adidas Shoes 737,Adidas comfortable street shoes,Adidas,3368,3.9,shoes
+738,Puma Shoes 738,Puma training shoes for gym,Puma,3733,3.2,shoes
+739,Reebok Shoes 739,Reebok gym training sneakers,Reebok,2383,4.7,shoes
+740,Adidas Shoes 740,Adidas comfortable street shoes,Adidas,1371,4.0,shoes
+741,Adidas Shoes 741,Adidas comfortable street shoes,Adidas,813,1.2,shoes
+742,Adidas Shoes 742,Adidas ultraboost running shoes,Adidas,3896,3.0,shoes
+743,Nike Shoes 743,Nike running shoes for athletes,Nike,3202,3.3,shoes
+744,Nike Shoes 744,Nike sports shoes for high performance,Nike,4069,4.5,shoes
+745,Puma Shoes 745,Puma sports shoes for daily use,Puma,1105,4.2,shoes
+746,Puma Shoes 746,Puma sports shoes for daily use,Puma,1177,2.4,shoes
+747,Adidas Shoes 747,Adidas ultraboost running shoes,Adidas,659,1.9,shoes
+748,Reebok Shoes 748,Reebok gym training sneakers,Reebok,4034,3.2,shoes
+749,Nike Shoes 749,Nike lightweight training shoes,Nike,527,2.9,shoes
+750,Adidas Shoes 750,Adidas comfortable street shoes,Adidas,3208,2.7,shoes
+751,Nike Shoes 751,Nike lightweight training shoes,Nike,898,1.4,shoes
+752,Adidas Shoes 752,Adidas comfortable street shoes,Adidas,1886,1.2,shoes
+753,Reebok Shoes 753,Reebok fitness shoes for workouts,Reebok,1830,2.1,shoes
+754,Puma Shoes 754,Puma lightweight running shoes,Puma,4872,3.9,shoes
+755,Nike Shoes 755,Nike running shoes for athletes,Nike,1654,1.7,shoes
+756,Nike Shoes 756,Nike running shoes for athletes,Nike,4383,2.7,shoes
+757,Nike Shoes 757,Nike running shoes for athletes,Nike,3119,1.7,shoes
+758,Puma Shoes 758,Puma lightweight running shoes,Puma,3452,1.9,shoes
+759,Adidas Shoes 759,Adidas ultraboost running shoes,Adidas,3194,3.1,shoes
+760,Nike Shoes 760,Nike sports shoes for high performance,Nike,1216,1.2,shoes
+761,Nike Shoes 761,Nike sports shoes for high performance,Nike,1390,1.4,shoes
+762,Adidas Shoes 762,Adidas ultraboost running shoes,Adidas,659,3.9,shoes
+763,Puma Shoes 763,Puma lightweight running shoes,Puma,3233,3.6,shoes
+764,Reebok Shoes 764,Reebok gym training sneakers,Reebok,2850,3.8,shoes
+765,Nike Shoes 765,Nike sports shoes for high performance,Nike,855,1.7,shoes
+766,Adidas Shoes 766,Adidas comfortable street shoes,Adidas,2154,3.7,shoes
+767,Nike Shoes 767,Nike sports shoes for high performance,Nike,4741,4.6,shoes
+768,Nike Shoes 768,Nike lightweight training shoes,Nike,3861,2.4,shoes
+769,Nike Shoes 769,Nike lightweight training shoes,Nike,2107,1.1,shoes
+770,Reebok Shoes 770,Reebok durable running shoes,Reebok,994,1.8,shoes
+771,Adidas Shoes 771,Adidas ultraboost running shoes,Adidas,2618,3.9,shoes
+772,Reebok Shoes 772,Reebok gym training sneakers,Reebok,1322,2.2,shoes
+773,Puma Shoes 773,Puma lightweight running shoes,Puma,4216,1.4,shoes
+774,Puma Shoes 774,Puma lightweight running shoes,Puma,1408,3.5,shoes
+775,Adidas Shoes 775,Adidas stylish sneakers for casual wear,Adidas,2403,2.9,shoes
+776,Puma Shoes 776,Puma lightweight running shoes,Puma,2677,1.8,shoes
+777,Reebok Shoes 777,Reebok fitness shoes for workouts,Reebok,3412,2.8,shoes
+778,Puma Shoes 778,Puma sports shoes for daily use,Puma,3665,5.0,shoes
+779,Puma Shoes 779,Puma training shoes for gym,Puma,1253,1.1,shoes
+780,Puma Shoes 780,Puma training shoes for gym,Puma,2648,1.3,shoes
+781,Adidas Shoes 781,Adidas comfortable street shoes,Adidas,988,3.7,shoes
+782,Adidas Shoes 782,Adidas comfortable street shoes,Adidas,1851,2.4,shoes
+783,Puma Shoes 783,Puma training shoes for gym,Puma,1196,2.1,shoes
+784,Puma Shoes 784,Puma lightweight running shoes,Puma,4396,3.5,shoes
+785,Puma Shoes 785,Puma lightweight running shoes,Puma,3438,3.3,shoes
+786,Nike Shoes 786,Nike lightweight training shoes,Nike,4334,3.1,shoes
+787,Puma Shoes 787,Puma lightweight running shoes,Puma,1267,4.9,shoes
+788,Puma Shoes 788,Puma sports shoes for daily use,Puma,665,4.8,shoes
+789,Adidas Shoes 789,Adidas ultraboost running shoes,Adidas,4592,1.4,shoes
+790,Puma Shoes 790,Puma training shoes for gym,Puma,2531,3.1,shoes
+791,Nike Shoes 791,Nike running shoes for athletes,Nike,3329,2.5,shoes
+792,Reebok Shoes 792,Reebok durable running shoes,Reebok,1862,4.9,shoes
+793,Adidas Shoes 793,Adidas comfortable street shoes,Adidas,2971,3.2,shoes
+794,Nike Shoes 794,Nike running shoes for athletes,Nike,1212,5.0,shoes
+795,Puma Shoes 795,Puma lightweight running shoes,Puma,4502,4.0,shoes
+796,Nike Shoes 796,Nike lightweight training shoes,Nike,1934,1.1,shoes
+797,Reebok Shoes 797,Reebok fitness shoes for workouts,Reebok,3094,2.1,shoes
+798,Puma Shoes 798,Puma lightweight running shoes,Puma,3438,4.9,shoes
+799,Puma Shoes 799,Puma training shoes for gym,Puma,2713,5.0,shoes
+800,Puma Shoes 800,Puma sports shoes for daily use,Puma,2356,4.7,shoes
+801,Puma Shoes 801,Puma lightweight running shoes,Puma,699,4.3,shoes
+802,Nike Shoes 802,Nike running shoes for athletes,Nike,1181,3.5,shoes
+803,Puma Shoes 803,Puma lightweight running shoes,Puma,1249,1.2,shoes
+804,Reebok Shoes 804,Reebok fitness shoes for workouts,Reebok,3344,2.1,shoes
+805,Adidas Shoes 805,Adidas stylish sneakers for casual wear,Adidas,1478,4.8,shoes
+806,Reebok Shoes 806,Reebok fitness shoes for workouts,Reebok,4873,4.2,shoes
+807,Adidas Shoes 807,Adidas ultraboost running shoes,Adidas,1849,4.1,shoes
+808,Adidas Shoes 808,Adidas comfortable street shoes,Adidas,4651,4.4,shoes
+809,Nike Shoes 809,Nike sports shoes for high performance,Nike,766,4.6,shoes
+810,Adidas Shoes 810,Adidas comfortable street shoes,Adidas,2774,4.9,shoes
+811,Puma Shoes 811,Puma lightweight running shoes,Puma,4384,3.7,shoes
+812,Puma Shoes 812,Puma lightweight running shoes,Puma,1021,1.0,shoes
+813,Reebok Shoes 813,Reebok durable running shoes,Reebok,840,4.3,shoes
+814,Reebok Shoes 814,Reebok fitness shoes for workouts,Reebok,3457,2.8,shoes
+815,Adidas Shoes 815,Adidas comfortable street shoes,Adidas,1183,3.6,shoes
+816,Reebok Shoes 816,Reebok fitness shoes for workouts,Reebok,4461,3.3,shoes
+817,Nike Shoes 817,Nike running shoes for athletes,Nike,2234,4.2,shoes
+818,Reebok Shoes 818,Reebok durable running shoes,Reebok,2063,4.9,shoes
+819,Nike Shoes 819,Nike sports shoes for high performance,Nike,1160,3.3,shoes
+820,Reebok Shoes 820,Reebok durable running shoes,Reebok,2995,3.3,shoes
+821,Adidas Shoes 821,Adidas ultraboost running shoes,Adidas,3143,4.8,shoes
+822,Adidas Shoes 822,Adidas comfortable street shoes,Adidas,3509,1.9,shoes
+823,Puma Shoes 823,Puma lightweight running shoes,Puma,2561,5.0,shoes
+824,Adidas Shoes 824,Adidas comfortable street shoes,Adidas,3464,3.6,shoes
+825,Puma Shoes 825,Puma lightweight running shoes,Puma,588,2.4,shoes
+826,Reebok Shoes 826,Reebok durable running shoes,Reebok,2580,1.3,shoes
+827,Puma Shoes 827,Puma training shoes for gym,Puma,1001,1.4,shoes
+828,Reebok Shoes 828,Reebok durable running shoes,Reebok,579,4.8,shoes
+829,Reebok Shoes 829,Reebok durable running shoes,Reebok,2979,1.5,shoes
+830,Reebok Shoes 830,Reebok gym training sneakers,Reebok,4712,1.8,shoes
+831,Nike Shoes 831,Nike running shoes for athletes,Nike,2395,3.8,shoes
+832,Reebok Shoes 832,Reebok durable running shoes,Reebok,2144,3.5,shoes
+833,Nike Shoes 833,Nike lightweight training shoes,Nike,2822,2.4,shoes
+834,Adidas Shoes 834,Adidas ultraboost running shoes,Adidas,2296,4.1,shoes
+835,Nike Shoes 835,Nike sports shoes for high performance,Nike,3557,1.0,shoes
+836,Puma Shoes 836,Puma training shoes for gym,Puma,656,1.2,shoes
+837,Reebok Shoes 837,Reebok gym training sneakers,Reebok,2638,4.8,shoes
+838,Reebok Shoes 838,Reebok fitness shoes for workouts,Reebok,2747,2.1,shoes
+839,Nike Shoes 839,Nike running shoes for athletes,Nike,2344,3.6,shoes
+840,Reebok Shoes 840,Reebok fitness shoes for workouts,Reebok,877,1.6,shoes
+841,Nike Shoes 841,Nike lightweight training shoes,Nike,1721,2.2,shoes
+842,Nike Shoes 842,Nike lightweight training shoes,Nike,2439,4.5,shoes
+843,Reebok Shoes 843,Reebok gym training sneakers,Reebok,891,4.9,shoes
+844,Reebok Shoes 844,Reebok fitness shoes for workouts,Reebok,3280,3.0,shoes
+845,Adidas Shoes 845,Adidas ultraboost running shoes,Adidas,4265,1.8,shoes
+846,Reebok Shoes 846,Reebok fitness shoes for workouts,Reebok,1587,4.5,shoes
+847,Nike Shoes 847,Nike running shoes for athletes,Nike,4795,2.0,shoes
+848,Puma Shoes 848,Puma sports shoes for daily use,Puma,4926,4.0,shoes
+849,Nike Shoes 849,Nike running shoes for athletes,Nike,687,3.0,shoes
+850,Adidas Shoes 850,Adidas stylish sneakers for casual wear,Adidas,2404,2.9,shoes
+851,Puma Shoes 851,Puma training shoes for gym,Puma,833,1.8,shoes
+852,Reebok Shoes 852,Reebok fitness shoes for workouts,Reebok,826,1.4,shoes
+853,Puma Shoes 853,Puma sports shoes for daily use,Puma,1297,1.5,shoes
+854,Reebok Shoes 854,Reebok fitness shoes for workouts,Reebok,2158,1.9,shoes
+855,Nike Shoes 855,Nike lightweight training shoes,Nike,4987,2.2,shoes
+856,Reebok Shoes 856,Reebok fitness shoes for workouts,Reebok,4633,4.7,shoes
+857,Puma Shoes 857,Puma training shoes for gym,Puma,1799,1.5,shoes
+858,Puma Shoes 858,Puma sports shoes for daily use,Puma,1544,4.1,shoes
+859,Adidas Shoes 859,Adidas comfortable street shoes,Adidas,3600,3.6,shoes
+860,Puma Shoes 860,Puma sports shoes for daily use,Puma,2305,2.1,shoes
+861,Nike Shoes 861,Nike sports shoes for high performance,Nike,3482,1.7,shoes
+862,Puma Shoes 862,Puma lightweight running shoes,Puma,4478,4.4,shoes
+863,Adidas Shoes 863,Adidas ultraboost running shoes,Adidas,2782,4.7,shoes
+864,Nike Shoes 864,Nike sports shoes for high performance,Nike,3839,5.0,shoes
+865,Puma Shoes 865,Puma lightweight running shoes,Puma,4567,3.4,shoes
+866,Nike Shoes 866,Nike sports shoes for high performance,Nike,2171,4.2,shoes
+867,Adidas Shoes 867,Adidas comfortable street shoes,Adidas,2016,3.7,shoes
+868,Puma Shoes 868,Puma sports shoes for daily use,Puma,4400,3.0,shoes
+869,Adidas Shoes 869,Adidas stylish sneakers for casual wear,Adidas,3488,1.3,shoes
+870,Puma Shoes 870,Puma training shoes for gym,Puma,2489,1.1,shoes
+871,Reebok Shoes 871,Reebok durable running shoes,Reebok,4276,2.5,shoes
+872,Adidas Shoes 872,Adidas ultraboost running shoes,Adidas,1579,1.5,shoes
+873,Puma Shoes 873,Puma lightweight running shoes,Puma,1527,4.8,shoes
+874,Nike Shoes 874,Nike sports shoes for high performance,Nike,588,4.7,shoes
+875,Puma Shoes 875,Puma sports shoes for daily use,Puma,2861,3.1,shoes
+876,Adidas Shoes 876,Adidas stylish sneakers for casual wear,Adidas,2202,3.8,shoes
+877,Puma Shoes 877,Puma training shoes for gym,Puma,1480,3.6,shoes
+878,Adidas Shoes 878,Adidas comfortable street shoes,Adidas,3804,4.9,shoes
+879,Adidas Shoes 879,Adidas stylish sneakers for casual wear,Adidas,1110,2.0,shoes
+880,Puma Shoes 880,Puma training shoes for gym,Puma,4917,1.7,shoes
+881,Nike Shoes 881,Nike running shoes for athletes,Nike,3162,1.6,shoes
+882,Reebok Shoes 882,Reebok gym training sneakers,Reebok,3394,4.9,shoes
+883,Puma Shoes 883,Puma lightweight running shoes,Puma,1951,3.4,shoes
+884,Puma Shoes 884,Puma lightweight running shoes,Puma,2502,1.9,shoes
+885,Adidas Shoes 885,Adidas comfortable street shoes,Adidas,1269,1.9,shoes
+886,Adidas Shoes 886,Adidas comfortable street shoes,Adidas,3467,3.0,shoes
+887,Puma Shoes 887,Puma sports shoes for daily use,Puma,1978,1.6,shoes
+888,Reebok Shoes 888,Reebok fitness shoes for workouts,Reebok,1497,2.2,shoes
+889,Puma Shoes 889,Puma lightweight running shoes,Puma,4948,3.7,shoes
+890,Nike Shoes 890,Nike running shoes for athletes,Nike,2605,4.3,shoes
+891,Adidas Shoes 891,Adidas comfortable street shoes,Adidas,1102,2.7,shoes
+892,Adidas Shoes 892,Adidas stylish sneakers for casual wear,Adidas,2412,4.6,shoes
+893,Reebok Shoes 893,Reebok gym training sneakers,Reebok,3456,2.0,shoes
+894,Nike Shoes 894,Nike sports shoes for high performance,Nike,4422,2.7,shoes
+895,Nike Shoes 895,Nike lightweight training shoes,Nike,4243,1.6,shoes
+896,Puma Shoes 896,Puma training shoes for gym,Puma,2163,2.2,shoes
+897,Puma Shoes 897,Puma lightweight running shoes,Puma,2872,4.2,shoes
+898,Puma Shoes 898,Puma sports shoes for daily use,Puma,2896,1.4,shoes
+899,Nike Shoes 899,Nike lightweight training shoes,Nike,4451,4.1,shoes
+900,Puma Shoes 900,Puma training shoes for gym,Puma,3653,3.1,shoes
+901,Adidas Shoes 901,Adidas stylish sneakers for casual wear,Adidas,2364,1.5,shoes
+902,Puma Shoes 902,Puma lightweight running shoes,Puma,1818,1.0,shoes
+903,Nike Shoes 903,Nike running shoes for athletes,Nike,2566,3.6,shoes
+904,Nike Shoes 904,Nike running shoes for athletes,Nike,3572,1.6,shoes
+905,Reebok Shoes 905,Reebok fitness shoes for workouts,Reebok,2660,3.4,shoes
+906,Adidas Shoes 906,Adidas ultraboost running shoes,Adidas,4357,4.8,shoes
+907,Adidas Shoes 907,Adidas ultraboost running shoes,Adidas,3856,4.6,shoes
+908,Nike Shoes 908,Nike running shoes for athletes,Nike,3588,3.0,shoes
+909,Puma Shoes 909,Puma sports shoes for daily use,Puma,3873,2.0,shoes
+910,Reebok Shoes 910,Reebok durable running shoes,Reebok,1284,1.6,shoes
+911,Adidas Shoes 911,Adidas stylish sneakers for casual wear,Adidas,2411,3.7,shoes
+912,Reebok Shoes 912,Reebok durable running shoes,Reebok,4436,2.0,shoes
+913,Adidas Shoes 913,Adidas comfortable street shoes,Adidas,1321,3.9,shoes
+914,Nike Shoes 914,Nike running shoes for athletes,Nike,4264,4.4,shoes
+915,Puma Shoes 915,Puma lightweight running shoes,Puma,4420,4.7,shoes
+916,Nike Shoes 916,Nike lightweight training shoes,Nike,2133,3.8,shoes
+917,Puma Shoes 917,Puma lightweight running shoes,Puma,553,3.3,shoes
+918,Reebok Shoes 918,Reebok fitness shoes for workouts,Reebok,4871,3.0,shoes
+919,Nike Shoes 919,Nike running shoes for athletes,Nike,2640,3.7,shoes
+920,Adidas Shoes 920,Adidas ultraboost running shoes,Adidas,3526,1.7,shoes
+921,Puma Shoes 921,Puma training shoes for gym,Puma,1076,1.7,shoes
+922,Nike Shoes 922,Nike lightweight training shoes,Nike,1689,2.2,shoes
+923,Adidas Shoes 923,Adidas ultraboost running shoes,Adidas,4999,2.4,shoes
+924,Puma Shoes 924,Puma sports shoes for daily use,Puma,2900,1.7,shoes
+925,Nike Shoes 925,Nike running shoes for athletes,Nike,4167,1.2,shoes
+926,Puma Shoes 926,Puma sports shoes for daily use,Puma,4022,4.4,shoes
+927,Reebok Shoes 927,Reebok durable running shoes,Reebok,2178,2.8,shoes
+928,Reebok Shoes 928,Reebok durable running shoes,Reebok,2968,1.7,shoes
+929,Reebok Shoes 929,Reebok durable running shoes,Reebok,1266,1.2,shoes
+930,Reebok Shoes 930,Reebok gym training sneakers,Reebok,4290,2.0,shoes
+931,Puma Shoes 931,Puma sports shoes for daily use,Puma,1776,3.9,shoes
+932,Adidas Shoes 932,Adidas comfortable street shoes,Adidas,2620,2.0,shoes
+933,Nike Shoes 933,Nike lightweight training shoes,Nike,4698,2.3,shoes
+934,Puma Shoes 934,Puma lightweight running shoes,Puma,1043,1.7,shoes
+935,Nike Shoes 935,Nike sports shoes for high performance,Nike,1564,2.5,shoes
+936,Adidas Shoes 936,Adidas ultraboost running shoes,Adidas,4266,4.8,shoes
+937,Nike Shoes 937,Nike running shoes for athletes,Nike,4962,2.0,shoes
+938,Reebok Shoes 938,Reebok fitness shoes for workouts,Reebok,4575,4.1,shoes
+939,Puma Shoes 939,Puma lightweight running shoes,Puma,3415,1.3,shoes
+940,Nike Shoes 940,Nike running shoes for athletes,Nike,2328,1.8,shoes
+941,Puma Shoes 941,Puma sports shoes for daily use,Puma,634,4.0,shoes
+942,Adidas Shoes 942,Adidas ultraboost running shoes,Adidas,4571,3.3,shoes
+943,Puma Shoes 943,Puma lightweight running shoes,Puma,3995,4.7,shoes
+944,Puma Shoes 944,Puma lightweight running shoes,Puma,4085,3.9,shoes
+945,Nike Shoes 945,Nike lightweight training shoes,Nike,4655,3.8,shoes
+946,Adidas Shoes 946,Adidas ultraboost running shoes,Adidas,1634,1.8,shoes
+947,Reebok Shoes 947,Reebok fitness shoes for workouts,Reebok,842,3.1,shoes
+948,Nike Shoes 948,Nike running shoes for athletes,Nike,1197,1.0,shoes
+949,Reebok Shoes 949,Reebok durable running shoes,Reebok,2748,2.0,shoes
+950,Puma Shoes 950,Puma training shoes for gym,Puma,2451,4.8,shoes
+951,Adidas Shoes 951,Adidas stylish sneakers for casual wear,Adidas,1117,2.2,shoes
+952,Adidas Shoes 952,Adidas stylish sneakers for casual wear,Adidas,3793,1.8,shoes
+953,Puma Shoes 953,Puma lightweight running shoes,Puma,2535,1.1,shoes
+954,Nike Shoes 954,Nike sports shoes for high performance,Nike,4499,2.1,shoes
+955,Reebok Shoes 955,Reebok durable running shoes,Reebok,3104,1.6,shoes
+956,Nike Shoes 956,Nike lightweight training shoes,Nike,3671,3.9,shoes
+957,Puma Shoes 957,Puma training shoes for gym,Puma,3677,1.6,shoes
+958,Nike Shoes 958,Nike sports shoes for high performance,Nike,1402,3.2,shoes
+959,Puma Shoes 959,Puma lightweight running shoes,Puma,751,2.8,shoes
+960,Puma Shoes 960,Puma training shoes for gym,Puma,4313,1.4,shoes
+961,Puma Shoes 961,Puma lightweight running shoes,Puma,1940,1.3,shoes
+962,Nike Shoes 962,Nike sports shoes for high performance,Nike,2083,3.4,shoes
+963,Adidas Shoes 963,Adidas ultraboost running shoes,Adidas,2555,4.0,shoes
+964,Adidas Shoes 964,Adidas comfortable street shoes,Adidas,587,4.9,shoes
+965,Reebok Shoes 965,Reebok gym training sneakers,Reebok,3279,4.1,shoes
+966,Reebok Shoes 966,Reebok fitness shoes for workouts,Reebok,815,4.1,shoes
+967,Puma Shoes 967,Puma lightweight running shoes,Puma,2839,1.6,shoes
+968,Reebok Shoes 968,Reebok fitness shoes for workouts,Reebok,956,3.3,shoes
+969,Reebok Shoes 969,Reebok gym training sneakers,Reebok,836,3.1,shoes
+970,Adidas Shoes 970,Adidas stylish sneakers for casual wear,Adidas,3053,1.1,shoes
+971,Puma Shoes 971,Puma lightweight running shoes,Puma,3815,1.1,shoes
+972,Puma Shoes 972,Puma training shoes for gym,Puma,2449,3.7,shoes
+973,Reebok Shoes 973,Reebok gym training sneakers,Reebok,1008,1.3,shoes
+974,Reebok Shoes 974,Reebok fitness shoes for workouts,Reebok,2519,1.7,shoes
+975,Puma Shoes 975,Puma sports shoes for daily use,Puma,4213,2.8,shoes
+976,Reebok Shoes 976,Reebok durable running shoes,Reebok,883,2.4,shoes
+977,Puma Shoes 977,Puma sports shoes for daily use,Puma,4780,1.1,shoes
+978,Adidas Shoes 978,Adidas stylish sneakers for casual wear,Adidas,3536,3.8,shoes
+979,Nike Shoes 979,Nike running shoes for athletes,Nike,4296,4.6,shoes
+980,Nike Shoes 980,Nike running shoes for athletes,Nike,584,1.7,shoes
+981,Adidas Shoes 981,Adidas stylish sneakers for casual wear,Adidas,3073,1.2,shoes
+982,Nike Shoes 982,Nike lightweight training shoes,Nike,3369,4.4,shoes
+983,Nike Shoes 983,Nike running shoes for athletes,Nike,2886,4.6,shoes
+984,Reebok Shoes 984,Reebok durable running shoes,Reebok,4038,2.7,shoes
+985,Reebok Shoes 985,Reebok durable running shoes,Reebok,1281,4.5,shoes
+986,Adidas Shoes 986,Adidas comfortable street shoes,Adidas,2635,3.5,shoes
+987,Puma Shoes 987,Puma lightweight running shoes,Puma,1711,3.2,shoes
+988,Reebok Shoes 988,Reebok durable running shoes,Reebok,1089,2.3,shoes
+989,Nike Shoes 989,Nike lightweight training shoes,Nike,1777,1.5,shoes
+990,Nike Shoes 990,Nike sports shoes for high performance,Nike,3225,4.7,shoes
+991,Adidas Shoes 991,Adidas comfortable street shoes,Adidas,2755,1.3,shoes
+992,Adidas Shoes 992,Adidas comfortable street shoes,Adidas,944,1.8,shoes
+993,Adidas Shoes 993,Adidas stylish sneakers for casual wear,Adidas,4630,4.5,shoes
+994,Nike Shoes 994,Nike running shoes for athletes,Nike,1414,1.8,shoes
+995,Adidas Shoes 995,Adidas stylish sneakers for casual wear,Adidas,2624,1.0,shoes
+996,Puma Shoes 996,Puma training shoes for gym,Puma,636,4.9,shoes
+997,Puma Shoes 997,Puma lightweight running shoes,Puma,3586,4.4,shoes
+998,Nike Shoes 998,Nike sports shoes for high performance,Nike,4808,3.8,shoes
+999,Adidas Shoes 999,Adidas comfortable street shoes,Adidas,3389,3.3,shoes
