@@ -3,6 +3,7 @@ from backend.search import search_products
 from fastapi.middleware.cors import CORSMiddleware
 import os
 from dotenv import load_dotenv
+from fastapi.middleware.cors import CORSMiddleware
 
 load_dotenv()
 
@@ -10,7 +11,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[os.getenv("API_CORS_ORIGIN", "http://localhost:3000")],
+    allow_origins=["*"],  # allow all (for now)
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
