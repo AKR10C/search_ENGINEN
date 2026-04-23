@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from search import search_products
+from backend.search import search_products
 from fastapi.middleware.cors import CORSMiddleware
 import os
 from dotenv import load_dotenv

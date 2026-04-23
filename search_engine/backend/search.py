@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from rank_bm25 import BM25Okapi
 import numpy as np
-from db import get_products_by_ids
+from backend.db import get_products_by_ids
 import os 
 import re
 
