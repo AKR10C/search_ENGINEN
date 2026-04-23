@@ -5,12 +5,11 @@ function App() {
   const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
   const [searched, setSearched] = useState(false);
-
   const [maxPrice, setMaxPrice] = useState("");
   const [minRating, setMinRating] = useState("");
   const [sort, setSort] = useState("");
   const [searched, setSearched] = useState(false);
-  const [darkMode, setDarkMode] = useState(false); // 🌙 toggle
+  const [darkMode, setDarkMode] = useState(true); // 🌙 toggle
 
   const handleSearch = async () => {
   if (!query.trim()) {
