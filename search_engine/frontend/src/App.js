@@ -8,7 +8,6 @@ function App() {
   const [maxPrice, setMaxPrice] = useState("");
   const [minRating, setMinRating] = useState("");
   const [sort, setSort] = useState("");
-  const [searched, setSearched] = useState(false);
   const [darkMode, setDarkMode] = useState(true); // 🌙 toggle
 
   const handleSearch = async () => {
