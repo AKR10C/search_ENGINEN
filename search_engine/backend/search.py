@@ -64,6 +64,10 @@ def search_products(query):
 
     # Filter the dataframe by price and rating BEFORE ranking
     filtered_df = df.copy()
+    
+    # Handle NaN values
+    filtered_df = filtered_df.dropna(subset=["price", "rating", "text"])
+    
     if max_price:
         filtered_df = filtered_df[filtered_df["price"] <= max_price]
     if min_rating:
@@ -73,6 +77,9 @@ def search_products(query):
     if len(filtered_df) == 0:
         return []  # No results match the filters
 
+    # Reset index to prevent index misalignment
+    filtered_df = filtered_df.reset_index(drop=True)
+
     # Recalculate BM25 for filtered dataset
     filtered_text = filtered_df["text"].tolist()
     tokenized_corpus_filtered = [doc.split(" ") for doc in filtered_text]
@@ -80,7 +87,6 @@ def search_products(query):
     scores = bm25_filtered.get_scores(tokenized_query)
 
     # Add scores to filtered dataframe
-    filtered_df = filtered_df.copy()
     filtered_df["score"] = scores
 
     # Sort by relevance (BM25 score) - PRIMARY ranking
@@ -94,6 +100,6 @@ def search_products(query):
     top_ids = top_results["id"].tolist()
 
     # Get final results from database (without applying filters again)
-    final_results = get_products_by_ids(top_ids, max_price=None, min_rating=None, sort_option=None)
-
-    return final_results[:5]
+    # final_results = get_products_by_ids(top_ids, max_price=None, min_rating=None, sort_option=None)
+    return top_results.head(5)[["id", "name", "price", "rating"]].to_dict(orient="records")
+    # return final_results[:5]
