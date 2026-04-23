@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+rank-bm25
+mysql-connector-python
+python-dotenv
