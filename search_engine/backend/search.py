@@ -21,8 +21,6 @@ df["text"] = (
 
 df["text"] = df["text"].str.lower()
 
-df["text"] = df["text"].str.lower()
-
 vectorizer = TfidfVectorizer()
 tfidf_matrix = vectorizer.fit_transform(df["text"])
 
@@ -59,21 +57,43 @@ def search_products(query):
     query = query.lower()
     tokenized_query = query.split()
 
-    scores = bm25.get_scores(tokenized_query)
+    # Extract filters from query FIRST
+    max_price = extract_price(query)
+    min_rating = extract_rating(query)
+    sort_option = extract_sort(query)
 
-    results_df = df.copy()
-    results_df["score"] = scores
+    # Filter the dataframe by price and rating BEFORE ranking
+    filtered_df = df.copy()
+    if max_price:
+        filtered_df = filtered_df[filtered_df["price"] <= max_price]
+    if min_rating:
+        filtered_df = filtered_df[filtered_df["rating"] >= min_rating]
 
-    top_results = results_df.sort_values(by="score", ascending=False).head(10)
+    # Calculate BM25 scores only on filtered results
+    if len(filtered_df) == 0:
+        return []  # No results match the filters
+
+    # Recalculate BM25 for filtered dataset
+    filtered_text = filtered_df["text"].tolist()
+    tokenized_corpus_filtered = [doc.split(" ") for doc in filtered_text]
+    bm25_filtered = BM25Okapi(tokenized_corpus_filtered)
+    scores = bm25_filtered.get_scores(tokenized_query)
+
+    # Add scores to filtered dataframe
+    filtered_df = filtered_df.copy()
+    filtered_df["score"] = scores
+
+    # Sort by relevance (BM25 score) - PRIMARY ranking
+    top_results = filtered_df.sort_values(by="score", ascending=False).head(10)
+
+    # Apply secondary sort if requested (price/rating sorting)
+    if sort_option:
+        column, order = sort_option
+        top_results = top_results.sort_values(by=column, ascending=(order.lower() == "asc"))
 
     top_ids = top_results["id"].tolist()
 
-    sort_option = extract_sort(query)
-
-    # 🔥 USE FUNCTION HERE
-    max_price = extract_price(query)
-    min_rating = extract_rating(query)
-
-    final_results = get_products_by_ids(top_ids, max_price, min_rating,sort_option)
+    # Get final results from database (without applying filters again)
+    final_results = get_products_by_ids(top_ids, max_price=None, min_rating=None, sort_option=None)
 
     return final_results[:5]
