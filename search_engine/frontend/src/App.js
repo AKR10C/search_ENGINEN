@@ -13,10 +13,38 @@ function App() {
   const [darkMode, setDarkMode] = useState(false); // 🌙 toggle
 
   const handleSearch = async () => {
-    if (!query.trim()) {
-      alert("Please enter a search query");
-      return;
-    }
+  if (!query.trim()) {
+    alert("Please enter a search query");
+    return;
+  }
+
+  setLoading(true);
+  setSearched(true);
+
+  try {
+    let fullQuery = query;
+
+    if (maxPrice) fullQuery += ` under ${maxPrice}`;
+    if (minRating) fullQuery += ` rating above ${minRating}`;
+    if (sort) fullQuery += ` ${sort}`;
+
+    console.log("Query sent:", fullQuery);   // ✅ ADD THIS
+
+    const response = await fetch(
+      `https://search-enginen.onrender.com/search?q=${fullQuery}`
+    );
+
+    const data = await response.json();
+
+    console.log("API DATA:", data);          // ✅ ADD THIS
+
+    setResults(data.result || []);
+  } catch (error) {
+    console.error("ERROR:", error);          // ✅ ADD THIS
+  }
+
+  setLoading(false);
+};
 
     setLoading(true);
     setSearched(true);
@@ -207,6 +235,5 @@ function App() {
       </div>
     </div>
   );
-}
 
 export default App;
