@@ -9,7 +9,7 @@ function App() {
   const [maxPrice, setMaxPrice] = useState("");
   const [minRating, setMinRating] = useState("");
   const [sort, setSort] = useState("");
-
+  const [searched, setSearched] = useState(false);
   const [darkMode, setDarkMode] = useState(false); // 🌙 toggle
 
   const handleSearch = async () => {
@@ -28,10 +28,12 @@ function App() {
       if (minRating) fullQuery += ` rating above ${minRating}`;
       if (sort) fullQuery += ` ${sort}`;
 
-      const response = await fetch(`https://search-enginen.onrender.com/search?q=${fullQuery}`)
+      const response = await fetch(
+        `https://search-enginen.onrender.com/search?q=${fullQuery}`,
+      );
 
       const data = await response.json();
-      setResults(data.result);
+      setResults(data.result || []);
     } catch (error) {
       console.error(error);
     }
@@ -169,16 +171,12 @@ function App() {
 
       {/* ⏳ Loading */}
       {loading && (
-        <p style={{ textAlign: "center", marginTop: "20px" }}>
-          Loading...
-        </p>
+        <p style={{ textAlign: "center", marginTop: "20px" }}>Loading...</p>
       )}
 
       {/* ❌ No results */}
       {searched && !loading && results.length === 0 && (
-        <p style={{ textAlign: "center", marginTop: "20px" }}>
-          No results found
-        </p>
+        <p>No results found</p>
       )}
 
       {/* 📦 Results */}
