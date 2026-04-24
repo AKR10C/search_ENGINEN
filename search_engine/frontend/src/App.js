@@ -28,10 +28,7 @@ function App() {
 
     console.log("Query sent:", fullQuery);   // ✅ ADD THIS
 
-    const response = await fetch(
-      `https://search-enginen.onrender.com/search?q=${fullQuery}`
-    );
-
+    const response = await fetch(`https://search-enginen.onrender.com/search?q=${query}&maxPrice=${maxPrice}&minRating=${minRating}&sort=${sort}`)
     const data = await response.json();
 
     console.log("API DATA:", data);          // ✅ ADD THIS
