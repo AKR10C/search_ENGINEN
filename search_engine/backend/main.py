@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI,Query   
 from backend.search import search_products
 from fastapi.middleware.cors import CORSMiddleware
 import os
@@ -21,13 +21,23 @@ app.add_middleware(
 def home():
     return {'message':"API working"}
 
-@app.get("/search")
-def search(q: str):
-    if not q or len(q.strip()) == 0:
-        return {"result": [], "error": "Query cannot be empty"}
-    try:
-        result = search_products(q)
-        return {"result": result}
-    except Exception as e:
-        return {"result": [], "error": str(e)}
+# @app.get("/search")
+# def search(q: str):
+#     if not q or len(q.strip()) == 0:
+#         return {"result": [], "error": "Query cannot be empty"}
+#     try:
+#         result = search_products(q)
+#         return {"result": result}
+#     except Exception as e:
+#         return {"result": [], "error": str(e)}
 
+@app.get("/search")
+def search(
+    q: str,
+    maxPrice: int = None,
+    minRating: float = None,
+    sort: str = None
+):
+    return {
+        "result": search_products(q, maxPrice, minRating, sort)
+    }

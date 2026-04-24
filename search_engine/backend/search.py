@@ -52,7 +52,8 @@ def extract_sort(query):
         return ("rating", "desc")
     return None
 
-def search_products(query):
+# def search_products(query):
+def search_products(query, max_price=None, min_rating=None, sort=None):
     print("DEBUG: BM25 + MySQL running")
     query = query.lower()
     tokenized_query = query.split()
